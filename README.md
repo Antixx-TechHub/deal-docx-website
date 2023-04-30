@@ -1,4 +1,4 @@
-# jexa
+# deal-docx
 
 ## Project setup
 
