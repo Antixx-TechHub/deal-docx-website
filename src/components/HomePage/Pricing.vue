@@ -2,8 +2,8 @@
     <div class="pricing-area ptb-100">
         <div class="container">
             <div class="section-title">
-                <span class="sub-title">PRICING TABLE</span>
-                <h2>No Hidden Charge Applied, Choose Your Plan</h2>
+                <h2>Let’s get started?</h2>
+                <p>Choose a plan that works best for your team and boost your sales with DealDocx.</p>
             </div>
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">

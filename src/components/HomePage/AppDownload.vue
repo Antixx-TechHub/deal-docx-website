@@ -1,10 +1,10 @@
 <template>
-    <div class="app-download-area pb-100">
+    <div class="app-download-area ptb-100">
         <div class="container">
             <div class="app-download-inner bg-gray">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
-                        <div class="key-features-card bg-color-three style-three">
+                        <div class="key-features-card bg-white style-three">
                             <div class="app-download-image" data-aos="fade-up">
                                 <h2>Retina Ready Screen</h2>
                                 <p>Just log in with your mail account from play store and using whatever you want for your
@@ -16,11 +16,11 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-area ptb-100">
                             <div class="container">
-                                <div class="section-title">
+                                <!-- <div class="section-title">
                                     <h2>Get in Touch</h2>
                                     <p>The IT industry offers a sea of options, from platforms, programming languages
                                         methodologies, technologies, tools, and more.</p>
-                                </div>
+                                </div> -->
                                 <div class="contact-form">
                                     <form id="contactForm">
                                         <div class="row">

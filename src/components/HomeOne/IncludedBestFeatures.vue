@@ -1,10 +1,6 @@
 <template>
     <div class="features-area ptb-100 bg-F7F7FF">
         <div class="container">
-            <div class="section-title">
-                <span class="sub-title">KEY FEATURES</span>
-                <h2>Most Probably Included Best Features Ever</h2>
-            </div>
             <div class="row justify-content-center">
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">

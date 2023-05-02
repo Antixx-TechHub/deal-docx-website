@@ -1,12 +1,13 @@
 <template>
-    <div class="feedback-area ptb-100">
+    <div class="app-download-area ptb-100">
         <div class="container">
             <div class="section-title">
-                <h2>Can’t find your query listed? Write us your query</h2>
+                <h2>Frequently asked questions</h2>
                 <span class="sub-title">Can’t find your query listed? Write us your query</span>
             </div>
-            <div class="section-title">
-                <div class="col-lg-12 col-md-12">
+            <div class="row align-items-center">
+                <div class="col-lg-2 col-md-12"></div>
+                <div class="col-lg-8 col-md-12">
                     <div class="faq-accordion">
                         <accordion>
                             <accordion-item>
@@ -146,6 +147,7 @@
                     </accordion>
                 </div>
             </div>
+            <div class="col-lg-2 col-md-12"></div>
         </div>
     </div>
 </div></template>

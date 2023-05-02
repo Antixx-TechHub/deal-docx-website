@@ -3,10 +3,10 @@
         <div class="container">
             <div class="free-trial-content bg-color">
                 <span class="sub-title">FREE TRIAL</span>
-                <h2>Start Your 14 Days Free Trials Today!</h2>
+                <h2>What are you waiting for? Your 10 FREE automated quotes are ready and waiting!</h2>
                 <form class="free-trial-form">
                     <input type="text" class="input-newsletter" placeholder="Enter Your Email Address" name="email">
-                    <button type="submit" class="default-btn">Get Started</button>
+                    <!-- <button type="submit" class="default-btn">Get Started</button> -->
                 </form>
                 <div class="shape8"><img src="../../assets/images/shape/shape7.png" alt="shape"></div>
                 <div class="shape9"><img src="../../assets/images/shape/shape8.png" alt="shape"></div>
