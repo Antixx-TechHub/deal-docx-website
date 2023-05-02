@@ -2,7 +2,7 @@
     <div class="faq-area ptb-100">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-12">
+                <!-- <div class="col-lg-4 col-md-12">
                     <div class="faq-sidebar">
                         <ul>
                             <li><a href="faq"><span>Startup Business Idea</span></a></li>
@@ -13,8 +13,8 @@
                             <li><a href="faq"><span>Startup Landing Page</span></a></li>
                         </ul>
                     </div>
-                </div>
-                <div class="col-lg-8 col-md-12">
+                </div> -->
+                <div class="col-lg-12 col-md-12">
                     <div class="faq-accordion">
                         <accordion>
                             <accordion-item>

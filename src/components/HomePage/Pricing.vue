@@ -1,11 +1,11 @@
 <template>
-    <div class="pricing-area bg-black-color ptb-100">
+    <div class="pricing-area ptb-100">
         <div class="container">
-            <div class="section-title color-white">
+            <div class="section-title">
                 <span class="sub-title">PRICING TABLE</span>
                 <h2>No Hidden Charge Applied, Choose Your Plan</h2>
             </div>
-            <div class="row justify-content-center">
+            <div class="row align-items-center justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-pricing-box">
                         <div class="title">
@@ -42,7 +42,6 @@
                             <li><i class="ri-check-line"></i> Lifetime free Support</li>
                             <li><i class="ri-check-line"></i> 25 GB Dedicated Hosting free</li>
                             <li><i class="ri-check-line"></i> 24/7 Support</li>
-                            <li><i class="ri-check-line"></i> Business Contact</li>
                             <li><i class="ri-check-line"></i> SEO Optimized</li>
                             <li><i class="ri-close-line"></i> Live Support</li>
                         </ul>
@@ -69,14 +68,14 @@
                     </div>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <div class="see-more-pricing color-white">
+                    <div class="see-more-pricing color-black">
                         <router-link to="/pricing" class="link-btn">See All Pricing Plan</router-link>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="shape7"><img src="../../assets/images/shape/shape6.png" alt="shape"></div>
-        <div class="shape8"><img src="../../assets/images/shape/shape7.png" alt="shape"></div>
+        <div class="shape12"><img src="../../assets/images/shape/shape11.png" alt="shape"></div>
+        <div class="shape13"><img src="../../assets/images/shape/shape15.png" alt="shape"></div>
     </div>
 </template>
 

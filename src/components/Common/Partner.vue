@@ -2,7 +2,7 @@
     <div class="partner-area ptb-100">
         <div class="container">
             <div class="partner-title">
-                Trusted by world famous companies:
+                Trusted by Industry Leaders
             </div>
             <div class="partner-slides">
                 <carousel
@@ -89,11 +89,11 @@ export default defineComponent ({
                 snapAlign: 'center',
             },
             992: {
-                itemsToShow: 5,
+                itemsToShow: 6,
                 snapAlign: 'center',
             },
             1200: {
-                itemsToShow: 5,
+                itemsToShow: 6,
                 snapAlign: 'center',
             },
         },

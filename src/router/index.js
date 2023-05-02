@@ -3,7 +3,7 @@ import { createWebHistory, createRouter } from "vue-router";
 // All Pages
 import HomePageOne from "../components/Pages/HomePageOne";
 import HomePageTwo from "../components/Pages/HomePageTwo";
-import HomePageThree from "../components/Pages/HomePageThree";
+import HomePage from "../components/Pages/HomePage";
 import HomePageFour from "../components/Pages/HomePageFour";
 import HomePageFive from "../components/Pages/HomePageFive";
 import HomePageSix from "../components/Pages/HomePageSix";
@@ -38,7 +38,7 @@ import BlogDetailsPage from "../components/Pages/BlogDetailsPage";
 import ContactPage from "../components/Pages/ContactPage";
 
 const routes = [
-  { path: "/", component: HomePageThree },
+  { path: "/", component: HomePage },
   { path: "/home-one", component: HomePageOne },
   { path: "/home-two", component: HomePageTwo },
   { path: "/home-four", component: HomePageFour },
