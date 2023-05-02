@@ -6,7 +6,7 @@
                     <div class="main-banner-content">
                         <div class="content">
                             <span class="sub-title">#Get your 14 days free trial</span>
-                            <h1>The Revolutionary App That Makes Your Life Easier Than Others Apps</h1>
+                            <h1>Experience Unbeatable Sales Efficiency with DealDocx NOW!</h1>
                             <router-link to="/app-download" class="default-btn">Start Free Trial</router-link>
                         </div>
                         <TrustedBy />

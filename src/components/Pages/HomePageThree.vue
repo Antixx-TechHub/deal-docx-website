@@ -13,7 +13,7 @@
         <Pricing />
         <CustomerReviews class="bg-F4F8FC" />
         <Blog />
-        <Footer />
+        <FooterStyleFour />
     </div>
 </template>
 
@@ -31,7 +31,7 @@ import AppDownload from '../Common/AppDownload'
 import Pricing from '../HomeThree/Pricing'
 import CustomerReviews from '../Common/CustomerReviews'
 import Blog from '../Common/Blog'
-import Footer from '../Layout/Footer'
+import FooterStyleFour from '../Layout/FooterStyleFour'
 
 export default {
     name: 'HomePageThree',
@@ -49,7 +49,7 @@ export default {
         Pricing,
         CustomerReviews,
         Blog,
-        Footer,
+        FooterStyleFour,
     }
 }
 </script>

@@ -37,7 +37,9 @@
 }
 
 .navbar-area.navbar-style-two .jexa-nav .navbar .navbar-nav .nav-item a:hover, .navbar-area.navbar-style-two .jexa-nav .navbar .navbar-nav .nav-item a.active {
-  color: var(--mainColor);
+background: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 
 .navbar-area.navbar-style-two .jexa-nav .navbar .navbar-nav .nav-item:hover a, .navbar-area.navbar-style-two .jexa-nav .navbar .navbar-nav .nav-item.active a {
@@ -457,7 +459,7 @@
 }
 
 .jexa-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: var(--mainColor !important);
+  color: var(--mainColor);
 }
 
 .jexa-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {

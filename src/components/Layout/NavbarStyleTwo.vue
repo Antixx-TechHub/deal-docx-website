@@ -4,8 +4,8 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <router-link class="navbar-brand" to="/">
-                        <img src="../../assets/images/black-logo.png" alt="logo">
-                        <img src="../../assets/images/logo.png" alt="logo">
+                        <!-- <img src="../../assets/images/black-logo.png" alt="logo"> -->
+                        <!-- <img src="../../assets/images/logo.png" alt="logo"> -->
                     </router-link>
 
                     <div 

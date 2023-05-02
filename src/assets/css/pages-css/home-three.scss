@@ -18,7 +18,7 @@ Banner Wrapper Area CSS
     .sub-title {
         display: block;
         margin-bottom: 12px;
-        background: var(--gradientColor);
+        background: var(--buttonBackground);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         border-left: 2px solid var(--mainColor);
@@ -145,7 +145,7 @@ Overview Area CSS
                 width: 100%;
                 bottom: 0;
                 height: 1px;
-                background-color: var(--blackColor);
+                background-color: var(--buttonBackground);
             }
             &:hover {
                 color: var(--mainColor);

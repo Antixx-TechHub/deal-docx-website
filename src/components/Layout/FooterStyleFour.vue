@@ -5,7 +5,7 @@
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <router-link to="/" class="logo">
-                            <img src="../../assets/images/logo-white.png" alt="logo">
+                            <img src="../../assets/images/footer-logo.svg" alt="logo">
                         </router-link>
                         <p>DealDocx, a unique cost-effective, CRM and AI enabled quote management software specially
                             designed for IT services.</p>

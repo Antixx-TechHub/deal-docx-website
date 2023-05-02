@@ -3,9 +3,11 @@
         <div class="container">
             <div class="content">
                 <span class="sub-title">Get your 15 days free trail</span>
-                <h1>The Revolutionary App That Makes Your Life Easier Than Others</h1>
-                <router-link to="/sign-in" class="default-btn">Start Free Trial</router-link>
-                <img src="../../assets/images/banner/banner-app3.png" alt="image">
+                <h1>Experience Unbeatable Sales<br>Efficiency with DealDocx NOW!</h1>
+                <p>Are you still using spreadsheets? Toss it! and start using DealDox now generate AI-Enabled quotes with just few clicks</p>
+                <router-link to="/sign-in" class="default-btn">Boost Your Sales Now</router-link>
+                <p>It’s completely FREE to start</p>
+                <img src="../../assets/images/banner/banner-home.png" alt="image">
             </div>
         </div>
         <div class="divider"></div>

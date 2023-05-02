@@ -2,7 +2,7 @@
 Main Banner Area CSS
 =================================================*/
 .main-banner {
-  background: linear-gradient(42.99deg, #3F75FF 10.19%, #44A6FF 50.48%, #4ADEFF 94.28%);
+  /* background: linear-gradient(42.99deg, #3F75FF 10.19%, #44A6FF 50.48%, #4ADEFF 94.28%); */
   padding-top: 160px;
   position: relative;
   z-index: 1;
@@ -22,7 +22,7 @@ Main Banner Area CSS
 }
 
 .main-banner .content h1 {
-  color: var(--whiteColor);
+  color: var(--bannerHeading);
   max-width: 960px;
   line-height: 1.4;
   font-size: 48px;
@@ -32,19 +32,43 @@ Main Banner Area CSS
 
 .main-banner .content .default-btn {
   margin-top: 15px;
-  color: var(--blackColor);
-  background-color: var(--whiteColor);
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 19px;
+  color: var(--whiteColor);
+  /* width: 317px;
+  height: 60px; */
+  padding: 22px 0px;
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: inline-flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 22px 0px;
+gap: 10px;
+
+width: 317px;
+height: 60px;
+flex: none;
+order: 2;
+flex-grow: 0;
+  /* background-color: var(--whiteColor); */
 }
 
-.main-banner .content .default-btn::before {
+/* .main-banner .content .default-btn::before {
   opacity: 0;
   visibility: hidden;
-}
+  
+} */
 
-.main-banner .content .default-btn:hover {
+/* .main-banner .content .default-btn:hover {
   color: var(--whiteColor);
   background-color: var(--blackColor);
-}
+} */
 
 .main-banner .content img {
   margin-top: 50px;

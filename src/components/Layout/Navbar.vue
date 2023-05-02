@@ -4,8 +4,8 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <router-link class="navbar-brand" to="/">
-                        <img src="../../assets/images/logo.png" alt="logo">
-                        <img src="../../assets/images/black-logo.png" alt="logo">
+                        <img src="../../assets/images/logo.svg" alt="logo">
+                        <!-- <img src="../../assets/images/black-logo.png" alt="logo"> -->
                     </router-link>
 
                     <div class="navbar-toggler" @click="active = !active" :aria-pressed="active ? 'true' : 'false'"
@@ -19,7 +19,7 @@
                     <div class="collapse navbar-collapse" :class="{ show: active }">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="#" class="toggle nav-link">Home</a>
-                                <!-- <ul class="dropdown-menu">
+                                <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <router-link to="/" class="nav-link">Home Demo - 1</router-link>
                                     </li>
@@ -47,7 +47,7 @@
                                     <li class="nav-item">
                                         <router-link to="/home-nine" class="nav-link">Home Demo - 9</router-link>
                                     </li>
-                                </ul> -->
+                                </ul>
                             </li>
 
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Features</a>

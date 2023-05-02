@@ -2,7 +2,7 @@
     <div class="profile-authentication-area">
         <div class="logo">
             <router-link to="/" class="d-inline-block">
-                <img src="../../assets/images/black-logo.png" alt="logo">
+                <img src="../../assets/images/logo.svg" alt="logo">
             </router-link>
         </div>
         <div class="d-table">

@@ -38,9 +38,9 @@ import BlogDetailsPage from "../components/Pages/BlogDetailsPage";
 import ContactPage from "../components/Pages/ContactPage";
 
 const routes = [
-  { path: "/", component: HomePageOne },
+  { path: "/", component: HomePageThree },
+  { path: "/home-one", component: HomePageOne },
   { path: "/home-two", component: HomePageTwo },
-  { path: "/home-three", component: HomePageThree },
   { path: "/home-four", component: HomePageFour },
   { path: "/home-five", component: HomePageFive },
   { path: "/home-six", component: HomePageSix },
