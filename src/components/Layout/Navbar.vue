@@ -59,7 +59,7 @@
                                         <router-link to="/cpq-integration" class="nav-link">Integrations</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">Swift Quotes</router-link>
+                                        <router-link to="/automated-quotes-generation" class="nav-link">Swift Quotes</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/about-modern" class="nav-link">Quick Approvals</router-link>
