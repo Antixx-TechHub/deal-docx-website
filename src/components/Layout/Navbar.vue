@@ -24,7 +24,7 @@
                                         <router-link to="/" class="nav-link">Home Demo - 1</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/home-two" class="nav-link">Home Demo - 2</router-link>
+                                        <router-link to="/home-one" class="nav-link">Home Demo - 2</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/home-three" class="nav-link">Home Demo - 3</router-link>
@@ -56,7 +56,7 @@
                                         <router-link to="/about-simple" class="nav-link">CPQ</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-modern" class="nav-link">Integrations</router-link>
+                                        <router-link to="/cpq-integration" class="nav-link">Integrations</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/about-simple" class="nav-link">Swift Quotes</router-link>

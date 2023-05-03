@@ -11,6 +11,7 @@ import HomePageSeven from "../components/Pages/HomePageSeven";
 import HomePageEight from "../components/Pages/HomePageEight";
 import HomePageNine from "../components/Pages/HomePageNine";
 import AboutPageOne from "../components/Pages/AboutPageOne";
+import CPQIntegration from "../components/Pages/CPQIntegration";
 import AboutPageTwo from "../components/Pages/AboutPageTwo";
 import FeaturesPageOne from "../components/Pages/FeaturesPageOne";
 import FeaturesPageTwo from "../components/Pages/FeaturesPageTwo";
@@ -48,6 +49,7 @@ const routes = [
   { path: "/home-eight", component: HomePageEight },
   { path: "/home-nine", component: HomePageNine },
   { path: "/about-simple", component: AboutPageOne },
+  { path: "/cpq-integration", component: CPQIntegration },
   { path: "/about-modern", component: AboutPageTwo },
   { path: "/features-one", component: FeaturesPageOne },
   { path: "/features-two", component: FeaturesPageTwo },

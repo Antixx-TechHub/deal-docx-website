@@ -262,7 +262,7 @@ Software Integrations Area CSS
   z-index: 1;
   padding: 50px;
   position: relative;
-  background: var(--gradientColor);
+  /* background: var(--gradientColor); */
 }
 
 .software-integrations-inner.bg-gradient-color::before {
