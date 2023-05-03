@@ -62,7 +62,7 @@
                                         <router-link to="/automated-quotes-generation" class="nav-link">Swift Quotes</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-modern" class="nav-link">Quick Approvals</router-link>
+                                        <router-link to="/Lightning-Fast-Quote-Approvals" class="nav-link">Quick Approvals</router-link>
                                     </li>
                                 </ul>
                             </li>
