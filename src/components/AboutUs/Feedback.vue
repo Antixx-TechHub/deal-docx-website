@@ -14,7 +14,7 @@
                                 v-bind:class="{ 'active': activeTab == tab.id }"
                                 :key="tab.id"
                             >
-                            <h4>What does users say about Dealdox</h4>
+                            <h1>What does users say about Dealdox</h1>
                             <br>
                             <br>
                             <h6>This is the best quote generator I have ever used</h6>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="tabs">
                     <ul class="tabs__header">
-                        <!-- <li 
+                        <li 
                             class="tabs__header-item" 
                             v-for="tab in tabs" 
                             v-on:click="selectTab (tab.id)" 
@@ -37,7 +37,7 @@
                             :key="tab.id"
                         >
                             <img :src="tab.image" alt="user">
-                        </li> -->
+                        </li>
                     </ul>
                 </div>
             </div>
