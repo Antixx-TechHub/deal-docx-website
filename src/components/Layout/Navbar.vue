@@ -73,7 +73,7 @@
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Company</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">About us</router-link>
+                                        <router-link to="/about-us" class="nav-link">About us</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/about-simple" class="nav-link">About Simple</router-link>
@@ -85,7 +85,7 @@
                                         <router-link to="/about-modern" class="nav-link">Team</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">Contact us</router-link>
+                                        <router-link to="/contact-us" class="nav-link">Contact us</router-link>
                                     </li>
                                 </ul>
                             </li>

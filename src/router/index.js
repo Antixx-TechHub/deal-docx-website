@@ -12,6 +12,8 @@ import HomePageEight from "../components/Pages/HomePageEight";
 import HomePageNine from "../components/Pages/HomePageNine";
 import AboutPageOne from "../components/Pages/AboutPageOne";
 import CPQIntegration from "../components/Pages/CPQIntegration";
+import AboutUs from "../components/Pages/AboutUs";
+import ContactUs from "../components/Pages/ContactUs";
 import AutomatedQuotesGeneration from "../components/Pages/AutomatedQuotesGeneration";
 import LightningFastQuoteApprovals from "../components/Pages/LightningFastQuoteApprovals";
 import AboutPageTwo from "../components/Pages/AboutPageTwo";
@@ -52,7 +54,9 @@ const routes = [
   { path: "/home-nine", component: HomePageNine },
   { path: "/about-simple", component: AboutPageOne },
   { path: "/cpq-integration", component: CPQIntegration },
+  { path: "/contact-us", component: ContactUs },
   { path: "/automated-quotes-generation", component: AutomatedQuotesGeneration },
+  { path: "/about-us", component: AboutUs },
   { path: "/lightning-fast-quote-approvals", component: LightningFastQuoteApprovals },
   { path: "/about-modern", component: AboutPageTwo },
   { path: "/features-one", component: FeaturesPageOne },
