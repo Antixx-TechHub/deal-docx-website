@@ -5,7 +5,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border bg-FAFAFA">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/automated-quotes-generation/cut-the-hassle.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>

@@ -38,7 +38,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/professional-services.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/managed-services.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/subscription-services.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/everything-as-a-service.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/Reduction-in-document.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/enhanced-margins.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/swift-implementation.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border">
                         <div class="about-img">
-                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
+                            <img src="../../assets/images/cpq/streamlined-quoting-process.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
