@@ -1,29 +1,23 @@
 <template>
     <div class="about-area ptb-100">
         <div class="container">
+            <div class="section-title">
+                <h2>You know what you're doing when you describe it as a process.</h2>
+                <p>Initiate a citation and set it forth for getting content; Dealdox will take care of the rest.</p>
+            </div>
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
-                    <div class="about-content">
-                        <span class="sub-title">ABOUT JEXA</span>
-                        <h2>A Few Words About Us</h2>
-                        <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
-                        <div class="features-text">
-                            <h6>Our App</h6>
-                            <p>Most provabily best you can trust on it, just log in with your mail account from play store and using whatever you want for your business.</p>
-                        </div>
-                        <div class="features-text">
-                            <h6>Our Mission</h6>
-                            <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy of your business purpose text.</p>
-                        </div>
-                        <div class="btn-box">
-                            <router-link to="/contact" class="default-btn">Start Free Trial</router-link>
-                            <router-link to="/features-one" class="link-btn">See All Features</router-link>
+                    <div class="features-item with-border bg-FAFAFA">
+                        <div class="about-img">
+                            <img src="../../assets/images/cpq/Filemanagementbyemployee.png" data-aos="fade-up" alt="about">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
-                    <div class="about-image">
-                        <img src="../../assets/images/app/app-img7.png" data-aos="fade-up" alt="about">
+                    <div class="about-content">
+                        <h3>Swift and Automated <br>Approvals</h3>
+                        <p>Auto-quotation's ability to preprogram your business rules makes it simple to way through the
+                            smart and automated agreement of the deal</p>
                     </div>
                 </div>
             </div>

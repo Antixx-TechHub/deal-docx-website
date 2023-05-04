@@ -1,29 +1,141 @@
 <template>
-    <div class="about-area ptb-100">
+    <div class="team-area pt-100 pb-75">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-md-12">
-                    <div class="about-content">
-                        <span class="sub-title">ABOUT JEXA</span>
-                        <h2>A Few Words About Us</h2>
-                        <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
-                        <div class="features-text">
-                            <h6>Our App</h6>
-                            <p>Most provabily best you can trust on it, just log in with your mail account from play store and using whatever you want for your business.</p>
+            <div class="section-title">
+                <span class="sub-title">OUR EXPERTS</span>
+                <h2>Meet With Our Team Member</h2>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team1.jpg" alt="image">
                         </div>
-                        <div class="features-text">
-                            <h6>Our Mission</h6>
-                            <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy of your business purpose text.</p>
+                        <div class="content">
+                            <h3>James Andy</h3>
+                            <span>CEO & Founder</span>
                         </div>
-                        <div class="btn-box">
-                            <router-link to="/contact" class="default-btn">Start Free Trial</router-link>
-                            <router-link to="/features-one" class="link-btn">See All Features</router-link>
-                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12">
-                    <div class="about-image">
-                        <img src="../../assets/images/app/app-img7.png" data-aos="fade-up" alt="about">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team2.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Steven Smith</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team3.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Sarah Taylor</h3>
+                            <span>Web Designer</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team4.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Alina Aly</h3>
+                            <span>SEO Consultant</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -33,6 +145,6 @@
 
 <script>
 export default {
-    name: 'About'
+    name: 'OurTeam'
 }
 </script>

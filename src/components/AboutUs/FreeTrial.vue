@@ -1,11 +1,31 @@
 <template>
-    <div class="new-free-trial-area bg-white pb-100">
+    <div class="app-download-area pb-100">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-12 col-md-12">
-                    <div class="features-item with-border">
-                        <h3>DealDox's AI-enabled quoting platform can integrate with most applications via API, streamlining your sales process and saving you time?</h3>
-                        <router-link to="/sign-in" class="default-btn">Get your free quotes now!</router-link>
+            <div class="app-download-inner bg-gray">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="app-download-content">
+                            <span class="sub-title">DOWNLOAD APP</span>
+                            <h2>Let's Get Your Free Copy From Apple and Play Store</h2>
+                            <p>Instant free download from store Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text.</p>
+                            <div class="btn-box">
+                                <a href="#" class="playstore-btn" target="_blank">
+                                    <img src="../../assets/images/play-store.png" alt="image">
+                                    Get It On
+                                    <span>Google Play</span>
+                                </a>
+                                <a href="#" class="applestore-btn" target="_blank">
+                                    <img src="../../assets/images/apple-store.png" alt="image">
+                                    Download on the
+                                    <span>Apple Store</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="app-download-image" data-aos="fade-up">
+                            <img src="../../assets/images/app/app-img4.png" alt="app-img">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -15,6 +35,6 @@
 
 <script>
 export default {
-    name: 'FreeTrial'
+    name: 'AppDownload'
 }
 </script>

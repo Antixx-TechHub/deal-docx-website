@@ -6,70 +6,268 @@
                 <h2>Meet With Our Team Member</h2>
             </div>
             <div class="row justify-content-center">
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
                         <div class="image">
-                            <div class="bg-1"></div>
+                            <img src="../../assets/images/team/team1.jpg" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Sarah Taylor</h3>
-                            <span>Marketing Lead</span>
+                            <h3>James Andy</h3>
+                            <span>CEO & Founder</span>
                         </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
                         <div class="image">
-                            <div class="bg-2"></div>
-                        </div>
-                        <div class="content">
-                            <h3>Ben Stokes</h3>
-                            <span>Art Director</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
-                        <div class="image">
-                            <div class="bg-3"></div>
-                        </div>
-                        <div class="content">
-                            <h3>Ellyse Perry</h3>
-                            <span>Designer</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
-                        <div class="image">
-                            <div class="bg-4"></div>
+                            <img src="../../assets/images/team/team2.jpg" alt="image">
                         </div>
                         <div class="content">
                             <h3>Steven Smith</h3>
-                            <span>Development</span>
+                            <span>Web Developer</span>
                         </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
                         <div class="image">
-                            <div class="bg-5"></div>
+                            <img src="../../assets/images/team/team3.jpg" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Suzie Bates</h3>
-                            <span>Front-End Development</span>
+                            <h3>Sarah Taylor</h3>
+                            <span>Web Designer</span>
                         </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                    <div class="single-team-box">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
                         <div class="image">
-                            <div class="bg-6"></div>
+                            <img src="../../assets/images/team/team4.jpg" alt="image">
                         </div>
                         <div class="content">
-                            <h3>David Warner</h3>
-                            <span>Head of Team</span>
+                            <h3>Alina Aly</h3>
+                            <span>SEO Consultant</span>
                         </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team1.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>James Andy</h3>
+                            <span>CEO & Founder</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team2.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Steven Smith</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team3.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Sarah Taylor</h3>
+                            <span>Web Designer</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="single-team-member">
+                        <div class="image">
+                            <img src="../../assets/images/team/team4.jpg" alt="image">
+                        </div>
+                        <div class="content">
+                            <h3>Alina Aly</h3>
+                            <span>SEO Consultant</span>
+                        </div>
+                        <ul class="social-links">
+                            <li>
+                                <a href="https://facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
