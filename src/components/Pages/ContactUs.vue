@@ -2,21 +2,27 @@
     <div>
         <Navbar class="navbar-style-two" />
         <PageHeader />
-        <Stats />
-        <IAQSolutions />
+        <Partner />
+        <Blog class="pt-0" />
+        <Faq />
+        <!-- <Stats /> -->
+        <!-- <IAQSolutions /> -->
         <!-- <ChallengesAndTrack /> -->
-        <FreeTrial />
+        <!-- <FreeTrial /> -->
         <FooterStyleFour />
     </div>
 </template>
 
 <script>
 import Navbar from '../Layout/Navbar'
-import PageHeader from '../AboutUs/PageHeader'
-import IAQSolutions from '../AboutUs/IAQSolutions'
+import PageHeader from '../ContactUs/PageHeader'
+import Partner from '../Common/Partner'
+import Blog from '../Common/Blog'
+import Faq from '../HomePage/Faq'
+// import IAQSolutions from '../ContactUs/IAQSolutions'
 // import ChallengesAndTrack from '../CPQIntegration/ChallengesAndTrack'
-import Stats from '../AboutUs/Stats'
-import FreeTrial from '../AboutUs/FreeTrial'
+// import Stats from '../ContactUs/Stats'
+// import FreeTrial from '../ContactUs/FreeTrial'
 import FooterStyleFour from '../Layout/FooterStyleFour'
 
 export default {
@@ -24,10 +30,13 @@ export default {
     components: {
         Navbar,
         PageHeader,
-        IAQSolutions,
+        Partner,
+        Blog,
+        Faq,
+        // IAQSolutions,
         // ChallengesAndTrack,
-        Stats,
-        FreeTrial,
+        // Stats,
+        // FreeTrial,
         FooterStyleFour,
     }
 }
