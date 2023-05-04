@@ -1,46 +1,11 @@
 <template>
-    <div class="features-area bg-FAFAFA ptb-100">
+    <div class="stats-area-pages bg-white ptb-100">
         <div class="container">
-            <div class="section-title">
-                <h2>Unlock the potential of quote automation with these key features</h2>
+            <div class="section-title-pages">
+            <h1><span class="sub-title-pages">Effortless Automation: </span>DealDocx let's you Preprogram All of These and More</h1>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="features-item with-border">
-                        <!-- <div class="icon">
-                            <i class="ri-eye-line"></i>
-                        </div> -->
-                        <h3><span class="sub-title">Easy Modification </span><br>of Scope</h3>
-                        <p>Easily segregate third-party services revenue with DealDox. Bring in service pricing of subcontractors without a linked account to differentiate from internal services revenue.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="features-item with-border">
-                        <!-- <div class="icon">
-                            <i class="ri-eye-line"></i>
-                        </div> -->
-                        <h3><span class="sub-title">Easy Modification </span><br>of Scope</h3>
-                        <p>Easily segregate third-party services revenue with DealDox. Bring in service pricing of subcontractors without a linked account to differentiate from internal services revenue.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="features-item with-border">
-                        <!-- <div class="icon">
-                            <i class="ri-eye-line"></i>
-                        </div> -->
-                        <h3><span class="sub-title">Easy Modification </span><br>of Scope</h3>
-                        <p>Easily segregate third-party services revenue with DealDox. Bring in service pricing of subcontractors without a linked account to differentiate from internal services revenue.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="features-item with-border">
-                        <!-- <div class="icon">
-                            <i class="ri-eye-line"></i>
-                        </div> -->
-                        <h3><span class="sub-title">Easy Modification </span><br>of Scope</h3>
-                        <p>Easily segregate third-party services revenue with DealDox. Bring in service pricing of subcontractors without a linked account to differentiate from internal services revenue.</p>
-                    </div>
-                </div>
+            <div class="stats-map text-center">
+                <img src="../../assets/images/screenshots/screen6.jpg" alt="cpq">
             </div>
         </div>
     </div>

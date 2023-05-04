@@ -53,7 +53,7 @@ const routes = [
   { path: "/about-simple", component: AboutPageOne },
   { path: "/cpq-integration", component: CPQIntegration },
   { path: "/automated-quotes-generation", component: AutomatedQuotesGeneration },
-  { path: "/Lightning-Fast-Quote-Approvals", component: LightningFastQuoteApprovals },
+  { path: "/lightning-fast-quote-approvals", component: LightningFastQuoteApprovals },
   { path: "/about-modern", component: AboutPageTwo },
   { path: "/features-one", component: FeaturesPageOne },
   { path: "/features-two", component: FeaturesPageTwo },

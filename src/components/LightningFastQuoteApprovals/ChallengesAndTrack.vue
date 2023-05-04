@@ -1,6 +1,10 @@
 <template>
     <div class="about-area ptb-100">
         <div class="container">
+            <div class="section-title">
+                <h2>You know what you're doing when you describe it as a process.</h2>
+                <p>Initiate a citation and set it forth for getting content; Dealdox will take care of the rest.</p>
+            </div>
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="features-item with-border bg-FAFAFA">
@@ -11,12 +15,9 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
-                        <h3>Cut the hassle, close the deal: With Automation</h3>
-                        <p>DealDox allows automation of quote generation. The content is built automatically to document the
-                            scope, assumptions, pricing, and other customer requirements. It facilitates generating
-                            documents automatically – scope of work, terms and conditions, licensing agreements, and any
-                            document needed to close the deal. One of the best features is that all content gets revised
-                            dynamically when the scope change</p>
+                        <h3>Swift and Automated <br>Approvals</h3>
+                        <p>Auto-quotation's ability to preprogram your business rules makes it simple to way through the
+                            smart and automated agreement of the deal</p>
                     </div>
                 </div>
             </div>
