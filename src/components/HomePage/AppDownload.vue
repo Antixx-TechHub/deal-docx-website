@@ -6,9 +6,8 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="key-features-card bg-white style-three">
                             <div class="app-download-image" data-aos="fade-up">
-                                <h2>Retina Ready Screen</h2>
-                                <p>Just log in with your mail account from play store and using whatever you want for your
-                                    able business purpose.</p>
+                                <h2>Get in Touch</h2>
+                                <p>Have an query or some feedback for us? <br> Write to our team, and will get back ASAP.</p>
                                 <img src="../../assets/images/app/app-img4.png" alt="app-img">
                             </div>
                         </div>
@@ -56,7 +55,7 @@
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                 <button type="submit" class="default-btn"><i class='bx bx-paper-plane'></i>
-                                                    Send Message</button>
+                                                    Submit</button>
                                             </div>
                                         </div>
                                     </form>
