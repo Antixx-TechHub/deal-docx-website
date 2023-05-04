@@ -24,7 +24,7 @@
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
                         <div class="icon">
-                            <i class="ri-leaf-line"></i>
+                            <img src="../../assets/images/cpq-integration/Proper-Prediction.png" alt="image">
                         </div>
                         <p>Proper prediction of resource demand</p>
                     </div>
@@ -32,7 +32,7 @@
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
                         <div class="icon">
-                            <i class="ri-secure-payment-line"></i>
+                            <img src="../../assets/images/cpq-integration/Automated-Oppertunity.png" alt="image">
                         </div>
                         <p>Automated opportunity update with current deal price and data</p>
                     </div>
@@ -40,7 +40,7 @@
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
                         <div class="icon">
-                            <i class="ri-cloud-line"></i>
+                            <img src="../../assets/images/cpq-integration/SyncUpOppertunity.png" alt="image">
                         </div>
                         <p>Sync up opportunities, jobs, talents, rates, and so on</p>
                     </div>
