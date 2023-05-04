@@ -62,7 +62,7 @@ Partner Area CSS
   text-align: center;
   margin-bottom: 40px;
   font-size: 35px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 120.7%;
 }
 
@@ -380,6 +380,7 @@ App Download Area CSS
 .app-download-inner.bg-gray {
   background-color: #F9F9FD;
   padding-right: 50px;
+  padding-left: 75px;
   border-radius: 40px;
 }
 

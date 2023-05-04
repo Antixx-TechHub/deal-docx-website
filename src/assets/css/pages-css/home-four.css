@@ -261,7 +261,10 @@ Software Integrations Area CSS
 .software-integrations-inner.bg-gradient-color {
   z-index: 1;
   padding: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   position: relative;
+  margin-bottom: 25px;
   /* background: var(--gradientColor); */
 }
 

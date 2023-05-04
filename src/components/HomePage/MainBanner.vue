@@ -7,7 +7,9 @@
                     <p>Are you still using spreadsheets? Toss it! and start using DealDox now generate AI-Enabled quotes
                         with just few clicks</p>
                     <router-link to="/sign-in" class="default-btn">Boost Your Sales Now</router-link>
+                    <div class="section-title-button">
                     <p>It’s completely FREE to start</p>
+                    </div>
                 </div>
                 <div class="screenshots-swiper-slides">
                     <carousel :autoplay="5000" :settings='settings' :breakpoints='breakpoints' :wrap-around="true">

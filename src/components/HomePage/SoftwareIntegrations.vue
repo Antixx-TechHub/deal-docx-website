@@ -4,47 +4,45 @@
             <div class="software-integrations-inner bg-gradient-color">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
-                        <div class="software-integrations-content black-color">
+                        <div class="features-content">
                             <h2>Easy Integration</h2>
-                            <p>DealDocx makes it simple to connect to <br> all the major CRMs.</p>
-
-                            <ul>
-                                <li>All free Features</li>
-                                <li>DocuSign Integration to e-sign SOW</li>
-                                <li>IT features for faster deal closing.</li>
-                                <li>Adaptable solution for the turnaround of <br>services SOW</li>
-                            </ul>
-                            <router-link to="/sign-in" class="default-btn">Know more</router-link>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="software-integrations-list">
-                            <img src="../../assets/images/shape/border.png" alt="border">
-                            <ul>
-                                <li data-aos="fade-down">
-                                    <img src="../../assets/images/software-integrations/atlassian.png" class="atlassian"
-                                        alt="atlassian">
-                                </li>
-                                <li data-aos="fade-right">
-                                    <img src="../../assets/images/software-integrations/skype.png" class="skype"
-                                        alt="skype">
-                                </li>
-                                <li data-aos="fade-up">
-                                    <img src="../../assets/images/software-integrations/gdrive.png" class="gdrive"
-                                        alt="gdrive">
-                                </li>
-                                <li data-aos="fade-down">
-                                    <img src="../../assets/images/software-integrations/slack.png" class="slack"
-                                        alt="slack">
-                                </li>
-                                <li data-aos="fade-up">
-                                    <img src="../../assets/images/software-integrations/jira.png" class="jira" alt="jira">
+                            <p>DealDocx makes it simple to connect to all the major CRMs.</p>
+                            <ul class="features-list">
+                                <li>
+                                    <div class="icon">
+                                        <i class="ri-check-line"></i>
+                                    </div>
+                                    <p>All free Features</p>
                                 </li>
                                 <li>
-                                    <img src="../../assets/images/software-integrations/frame.png" class="frame"
-                                        alt="frame">
+                                    <div class="icon">
+                                        <i class="ri-check-line"></i>
+                                    </div>
+                                    <p>DocuSign Integration to e-sign SOW</p>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="ri-check-line"></i>
+                                    </div>
+                                    <p>IT features for faster deal closing.</p>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="ri-check-line"></i>
+                                    </div>
+                                    <p>Adaptable solution for the turnaround of services SOW</p>
                                 </li>
                             </ul>
+
+                            <div class="btn-box">
+                                <router-link to="/app-download" class="default-btn">Know more</router-link>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12">
+                        <div class="software-integrations-list">
+                            <img src="../../assets/images/HomePage/easy-integration.png" alt="border">
                         </div>
                     </div>
                 </div>

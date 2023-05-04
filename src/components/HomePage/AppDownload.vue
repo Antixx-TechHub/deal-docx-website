@@ -4,53 +4,72 @@
             <div class="app-download-inner bg-gray">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
-                        <div class="key-features-card bg-white style-three">
-                            <div class="app-download-image" data-aos="fade-up">
+                        <div class="software-integrations-inner bg-gradient-color">
+                            <div class="features-content">
                                 <h2>Get in Touch</h2>
-                                <p>Have an query or some feedback for us? <br> Write to our team, and will get back ASAP.</p>
-                                <img src="../../assets/images/app/app-img4.png" alt="app-img">
+                                <p>Have an query or some feedback for us? <br>Write to our team, and will get back ASAP.</p>
+                                <p><br></p>
+                            </div>
+                            <div class="software-integrations-list" data-aos="fade-up">
+                                <img src="../../assets/images/HomePage/get-in-touch.png" alt="image">
                             </div>
                         </div>
                     </div>
+
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-area ptb-100">
                             <div class="container">
-                                <!-- <div class="section-title">
-                                    <h2>Get in Touch</h2>
-                                    <p>The IT industry offers a sea of options, from platforms, programming languages
-                                        methodologies, technologies, tools, and more.</p>
-                                </div> -->
                                 <div class="contact-form">
                                     <form id="contactForm">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-6 col-sm-6">
                                                 <div class="form-group">
+                                                    <p>Your good name!</p>
                                                     <input type="text" name="name" class="form-control" id="name"
-                                                        placeholder="Eg: Sarah Taylor">
+                                                        placeholder="Eg: Sarah">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-6">
                                                 <div class="form-group">
+                                                    <p>Last Name</p>
+                                                    <input type="text" name="name" class="form-control" id="name"
+                                                        placeholder="Eg: Taylor">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                                <div class="form-group">
+                                                    <p>Your email</p>
                                                     <input type="email" name="email" class="form-control" id="email"
                                                         placeholder="hello@sarah.com">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-6">
                                                 <div class="form-group">
+                                                    <p>Mobile</p>
                                                     <input type="text" name="phone_number" class="form-control"
                                                         id="phone_number" placeholder="Enter your phone number">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-6">
                                                 <div class="form-group">
-                                                    <input type="text" name="msg_subject" class="form-control"
-                                                        id="msg_subject" placeholder="Enter your subject">
+                                                    <p>Company</p>
+                                                    <input type="text" name="name" class="form-control" id="name"
+                                                        placeholder="Eg: Lorem Ipsum">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                                <div class="form-group">
+                                                    <p>Website</p>
+                                                    <input type="text" name="name" class="form-control" id="name"
+                                                        placeholder="Eg: www.yourdomain.com">
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                 <div class="form-group">
+                                                    <p>Please write your message</p>
                                                     <textarea name="message" id="message" class="form-control" cols="30"
-                                                        rows="6" placeholder="Enter message..."></textarea>
+                                                        rows="6"
+                                                        placeholder="This just a dummy message! please dont mind"></textarea>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12">

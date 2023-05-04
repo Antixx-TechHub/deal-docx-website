@@ -1,5 +1,5 @@
 <template>
-    <div class="app-download-area ptb-100">
+    <div class="app-download-area ptb-70">
         <div class="container">
             <div class="section-title">
                 <h2>Frequently asked questions</h2>

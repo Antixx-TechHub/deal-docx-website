@@ -267,7 +267,7 @@ Features Area CSS
   padding-right: 15px;
 }
 
-.features-content .sub-title {
+/* .features-content .sub-title {
   display: block;
   margin-bottom: 10px;
   background: var(--gradientColor);
@@ -275,10 +275,27 @@ Features Area CSS
   -webkit-text-fill-color: transparent;
   letter-spacing: 0.1em;
   font-weight: 600;
-}
+} */
+
+.features-content .sub-title {
+  font-size: 36px;
+  display: inline-block;
+  background: var(--gradientColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  font-weight: 700;
+} 
 
 .features-content h2 {
   font-size: 36px;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
+.features-content p {
+  font-size: 18px;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -293,16 +310,17 @@ Features Area CSS
 .features-content .features-list li {
   position: relative;
   margin-bottom: 30px;
-  padding-left: 75px;
+  padding-left: 50px;
 }
 
 .features-content .features-list li .icon {
-  width: 55px;
-  height: 55px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
-  background: linear-gradient(45.24deg, #9F5FF1 5.99%, #FF54B0 91.87%);
+  background: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
   position: absolute;
   text-align: center;
+  /* vertical-align: middle; */
   color: var(--whiteColor);
   font-size: 25px;
   left: 0;
@@ -1941,7 +1959,7 @@ Free Trial Area CSS
         -ms-flex: 0 0 auto;
             flex: 0 0 auto;
     width: 50%;
-    padding-left: 10px;
+    padding-left: 100px;
     padding-right: 10px;
   }
   .single-features-item {

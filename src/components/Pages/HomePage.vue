@@ -22,10 +22,11 @@
 </template>
 
 <script>
+// import TopHeader from '../Layout/TopHeader'
 import Navbar from '../Layout/Navbar'
 import MainBanner from '../HomePage/MainBanner'
 // import Screenshots from '../HomePage/Screenshots'
-import Partner from '../Common/Partner'
+import Partner from '../HomePage/Partner'
 import IncludedBestFeatures from '../HomePage/IncludedBestFeatures'
 // import GettingBestApp from '../HomePage/GettingBestApp'
 // import Features from '../HomePage/Features'

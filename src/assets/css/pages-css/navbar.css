@@ -279,7 +279,7 @@ background: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
 
 .jexa-nav .navbar .navbar-nav {
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 30px;
 }
 
 .jexa-nav .navbar .navbar-nav .nav-item {
