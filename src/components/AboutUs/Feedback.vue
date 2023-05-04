@@ -14,7 +14,11 @@
                                 v-bind:class="{ 'active': activeTab == tab.id }"
                                 :key="tab.id"
                             >
-                                <p>Instant free download from store cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text.</p>
+                            <h4>What does users say about Dealdox</h4>
+                            <br>
+                            <br>
+                            <h6>This is the best quote generator I have ever used</h6>
+                                <p>“From the outset, we have realised the immense potential of technology to transform sales teams. Our relentless commitment to innovation has allowed us to harness this power, creating software solutions that dramatically improve sales efficiency and productivity. By delivering outstanding value to both sales teams”</p>
                                 <h6>
                                     <span>James Smith</span> 
                                     - Web Developer
@@ -25,7 +29,7 @@
                 </div>
                 <div class="tabs">
                     <ul class="tabs__header">
-                        <li 
+                        <!-- <li 
                             class="tabs__header-item" 
                             v-for="tab in tabs" 
                             v-on:click="selectTab (tab.id)" 
@@ -33,7 +37,7 @@
                             :key="tab.id"
                         >
                             <img :src="tab.image" alt="user">
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>

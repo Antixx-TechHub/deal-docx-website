@@ -2,18 +2,19 @@
     <div class="team-area pt-100 pb-75">
         <div class="container">
             <div class="section-title">
-                <span class="sub-title">OUR EXPERTS</span>
-                <h2>Meet With Our Team Member</h2>
+                <span class="sub-title"></span>
+                <h2>Meet our People</h2>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team1.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-ap.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>James Andy</h3>
-                            <span>CEO & Founder</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
                         </div>
                         <ul class="social-links">
                             <li>
@@ -42,11 +43,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team2.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-apt.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Steven Smith</h3>
-                            <span>Web Developer</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -75,11 +78,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team3.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-apthr.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Sarah Taylor</h3>
-                            <span>Web Designer</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -108,11 +113,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team4.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-ap.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Alina Aly</h3>
-                            <span>SEO Consultant</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -141,11 +148,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team1.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-ap.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>James Andy</h3>
-                            <span>CEO & Founder</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -174,11 +183,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team2.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-apt.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Steven Smith</h3>
-                            <span>Web Developer</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -207,11 +218,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team3.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-apthr.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Sarah Taylor</h3>
-                            <span>Web Designer</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>
@@ -240,11 +253,13 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-team-member">
                         <div class="image">
-                            <img src="../../assets/images/team/team4.jpg" alt="image">
+                            <img src="../../assets/images/About-US/halima-sadiya-ap.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Alina Aly</h3>
-                            <span>SEO Consultant</span>
+                            <h3>Halima Sadiya AP</h3>
+                            <span>Founder & CEO</span>
+                            <p>“Our team includes experienced <br>developers and architects”</p>
+
                         </div>
                         <ul class="social-links">
                             <li>

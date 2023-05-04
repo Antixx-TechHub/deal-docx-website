@@ -2,8 +2,10 @@
     <div class="features-area ptb-100 bg-white">
         <div class="container">
             <div class="section-title">
-                <h2>Stay Ahead of the Competition with DealDox Integration</h2>
+                <h2>Our Values</h2>
+                <p>At DealDox, we are a team of trustworthy professionals passionate about pre-sales automation and assisting businesses to grow.</p>
             </div>
+            <br>
             <div class="row justify-content-center">
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
