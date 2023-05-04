@@ -11,7 +11,7 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
-                        <h3>Cut the hassle, close the deal: With Automation</h3>
+                        <h3>Cut the hassle, close<br>  the deal: With Automation</h3>
                         <p>DealDox allows automation of quote generation. The content is built automatically to document the
                             scope, assumptions, pricing, and other customer requirements. It facilitates generating
                             documents automatically – scope of work, terms and conditions, licensing agreements, and any
