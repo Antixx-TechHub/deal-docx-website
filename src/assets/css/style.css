@@ -3166,7 +3166,8 @@ New Demo CSS
   border: 1px solid #D1DBE4;
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  background: var(--whiteColor);
+  background: #F6F8FA;
+  border-radius: 20px;
   position: relative;
   z-index: 1;
 }
@@ -3256,6 +3257,7 @@ New Demo CSS
   left: 0;
   right: 0;
   top: 0;
+  border-radius: 20px;
   background: var(--gradientColor);
   z-index: -1;
   opacity: 0;
@@ -3402,7 +3404,7 @@ New Demo CSS
 }
 
 .app-pricing-gradient-area {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  /* background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%); */
 }
 
 .app-pricing-gradient-area .section-title .sub-title {
