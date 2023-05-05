@@ -52,7 +52,7 @@ const routes = [
   { path: "/home-seven", component: HomePageSeven },
   { path: "/home-eight", component: HomePageEight },
   { path: "/home-nine", component: HomePageNine },
-  { path: "/about-simple", component: AboutPageOne },
+  { path: "/cpq", component: AboutPageOne },
   { path: "/cpq-integration", component: CPQIntegration },
   { path: "/contact-us", component: ContactUs },
   { path: "/automated-quotes-generation", component: AutomatedQuotesGeneration },

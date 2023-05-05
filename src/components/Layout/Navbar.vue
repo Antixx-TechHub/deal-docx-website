@@ -53,7 +53,7 @@
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Features</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">CPQ</router-link>
+                                        <router-link to="/cpq" class="nav-link">CPQ</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/cpq-integration" class="nav-link">Integrations</router-link>

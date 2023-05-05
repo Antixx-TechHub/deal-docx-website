@@ -1,65 +1,85 @@
 <template>
-    <div class="pricing-area ptb-100">
+    <div class="app-pricing-gradient-area ptb-100">
         <div class="container">
             <div class="section-title">
                 <h2>Let’s get started?</h2>
                 <p>Choose a plan that works best for your team and boost <br> your sales with DealDocx.</p>
             </div>
-            <div class="row align-items-center justify-content-center">
+
+            <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-pricing-box">
+                    <div class="single-app-pricing-box">
                         <div class="title">
-                            <h3>FREE</h3>
+                            <h3>Basic</h3>
+                            <p>Powerful & awesome elementss</p>
                         </div>
-                        <!-- <div class="price">
-                            $39 <span>/Month</span>
-                        </div> -->
-                        
+                        <div class="price">
+                            $49 <span>/Month</span>
+                        </div>
                         <ul class="features-list">
-                            <li><i class="ri-check-line"></i> All free Features</li>
-                            <li><i class="ri-check-line"></i> Personalized Document</li>
-                            <li><i class="ri-check-line"></i> Templates Sales Dashboard</li>
-                            <li><i class="ri-check-line"></i> API</li>
-                            <li><i class="ri-check-line"></i> SSO Support</li>
-                            <li><i class="ri-check-line"></i> Online forms</li>
+                            <li><i class="ri-check-line"></i> Up to 10 Website</li>
+                            <li><i class="ri-check-line"></i> Lifetime free Support</li>
+                            <li><i class="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
+                            <li><i class="ri-check-line"></i> 24/7 Hours Support</li>
+                            <li><i class="ri-close-line"></i> SEO Optimized</li>
                         </ul>
-                        <br>
-                        <router-link to="/contact" class="default-btn">Start Using for Free</router-link>
+                        <div class="pricing-btn">
+                            <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
+                        </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-pricing-box active">
+                    <div class="single-app-pricing-box active">
                         <div class="title">
-                            <h3>Premium</h3>
+                            <h3>Small Team</h3>
+                            <p>Powerful & awesome elements</p>
                         </div>
                         <span class="popular">Most Popular</span>
-                        <!-- <div class="price">
-                            $49 <span>/Month</span>
-                        </div> -->
+                        <div class="price">
+                            $59 <span>/Month</span>
+                        </div>
                         <ul class="features-list">
-                            <li><i class="ri-check-line"></i> All free Features</li>
-                            <li><i class="ri-check-line"></i> Personalized Document</li>
-                            <li><i class="ri-check-line"></i> Templates Sales Dashboard</li>
-                            <li><i class="ri-check-line"></i> API</li>
-                            <li><i class="ri-check-line"></i> SSO Support</li>
-                            <li><i class="ri-check-line"></i> Online forms</li>
-                            <li><i class="ri-check-line"></i> All free Features</li>
-
+                            <li><i class="ri-check-line"></i> Up to 10 Website</li>
+                            <li><i class="ri-check-line"></i> Lifetime free Support</li>
+                            <li><i class="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
+                            <li><i class="ri-check-line"></i> 24/7 Hours Support</li>
+                            <li><i class="ri-check-line"></i> SEO Optimized</li>
+                            <li><i class="ri-close-line"></i> Live Support</li>
                         </ul>
-                        <br>
-                        <router-link to="/contact" class="default-btn">Request a Quote</router-link>
-
+                        <div class="pricing-btn">
+                            <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
+                        </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-12 col-md-12 col-sm-12">
-                    <div class="see-more-pricing color-black">
-                        <router-link to="/pricing" class="link-btn">See All Pricing Plan</router-link>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-app-pricing-box">
+                        <div class="title">
+                            <h3>Business</h3>
+                            <p>Powerful & awesome elements</p>
+                        </div>
+                        <div class="price">
+                            $69 <span>/Month</span>
+                        </div>
+                        <ul class="features-list">
+                            <li><i class="ri-check-line"></i> Up to 10 Website</li>
+                            <li><i class="ri-check-line"></i> Lifetime free Support</li>
+                            <li><i class="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
+                            <li><i class="ri-check-line"></i> 24/7 Hours Support</li>
+                            <li><i class="ri-check-line"></i> SEO Optimized</li>
+                        </ul>
+                        <div class="pricing-btn">
+                            <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
+                        </div>
                     </div>
-                </div> -->
+                </div>
+            </div>
+
+            <div class="app-pricing-bottom-text">
+                <router-link to="/pricing">See All Pricing Plan</router-link>
             </div>
         </div>
-        <!-- <div class="shape12"><img src="../../assets/images/shape/shape11.png" alt="shape"></div>
-        <div class="shape13"><img src="../../assets/images/shape/shape15.png" alt="shape"></div> -->
     </div>
 </template>
 
