@@ -412,7 +412,7 @@ Features Area CSS
   left: 80px;
   width: 80px;
   height: 80px;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
   font-size: 25px;
@@ -429,7 +429,7 @@ Features Area CSS
 }
 
 .single-features-item .icon i {
-  left: 0;
+  left: 20px;
   right: 0;
   top: 50%;
   position: absolute;

@@ -233,9 +233,11 @@ Features Area CSS
 }
 
 .features-item h3 {
-  font-size: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  /* padding-bottom: 50px; */
   margin-bottom: 1px;
-  text-align: left;
+  text-align: center;
 }
 
 .features-item p {
@@ -249,7 +251,8 @@ Features Area CSS
   border: 1px solid #eeeeee;
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  background-color: var(--whiteColor);
+  background-color: #f9f9f9;
+  max-width: 1000px;
 }
 
 .features-item.with-border .sub-title {

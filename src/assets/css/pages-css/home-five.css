@@ -108,6 +108,11 @@ About Area CSS
   padding-right: 30px;
 }
 
+.about-content-right {
+  padding-right: 30px;
+  text-align: right;
+}
+
 .about-content .sub-title {
   display: block;
   margin-bottom: 10px;
