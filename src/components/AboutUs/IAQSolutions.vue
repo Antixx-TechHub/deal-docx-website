@@ -26,7 +26,7 @@
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
                         <div class="icon">
-                            <img src="../../assets/images/cpq-integration/Proper-Prediction.png" alt="image">
+                            <img src="../../assets/images/About-US/predictiona.png" alt="image">
                         </div>
                         <p>Proper prediction of resource demand</p>
                     </div>
@@ -42,7 +42,7 @@
                 <div class="col-xl-4 col-lg-6 col-sm-6 col-md-6">
                     <div class="single-features-item">
                         <div class="icon">
-                            <img src="../../assets/images/cpq-integration/SyncUpOppertunity.png" alt="image">
+                            <img src="../../assets/images/About-US/synca.png" alt="image">
                         </div>
                         <p>Sync up opportunities, jobs, talents, rates, and so on</p>
                     </div>
