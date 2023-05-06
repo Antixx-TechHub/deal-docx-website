@@ -89,11 +89,11 @@ export default defineComponent ({
                 snapAlign: 'center',
             },
             992: {
-                itemsToShow: 6,
+                itemsToShow: 5,
                 snapAlign: 'center',
             },
             1200: {
-                itemsToShow: 6,
+                itemsToShow: 5,
                 snapAlign: 'center',
             },
         },
