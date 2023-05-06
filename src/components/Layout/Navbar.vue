@@ -19,7 +19,7 @@
                     <div class="collapse navbar-collapse" :class="{ show: active }">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="#" class="toggle nav-link">Home</a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <router-link to="/" class="nav-link">Home Demo - 1</router-link>
                                     </li>
@@ -47,7 +47,7 @@
                                     <li class="nav-item">
                                         <router-link to="/home-nine" class="nav-link">Home Demo - 9</router-link>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
 
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Features</a>
@@ -59,10 +59,12 @@
                                         <router-link to="/cpq-integration" class="nav-link">Integrations</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/automated-quotes-generation" class="nav-link">Swift Quotes</router-link>
+                                        <router-link to="/automated-quotes-generation" class="nav-link">Swift
+                                            Quotes</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/lightning-fast-quote-approvals" class="nav-link">Quick Approvals</router-link>
+                                        <router-link to="/lightning-fast-quote-approvals" class="nav-link">Quick
+                                            Approvals</router-link>
                                     </li>
                                 </ul>
                             </li>
@@ -76,15 +78,6 @@
                                         <router-link to="/about-us" class="nav-link">About us</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">About Simple</router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/about-modern" class="nav-link">About Modern</router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/about-modern" class="nav-link">Team</router-link>
-                                    </li>
-                                    <li class="nav-item">
                                         <router-link to="/contact-us" class="nav-link">Contact us</router-link>
                                     </li>
                                 </ul>
@@ -93,35 +86,28 @@
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Resources</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">Blogs</router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/blog-grid" class="nav-link">Blog Grid</router-link>
+                                        <router-link to="/blog-grid" class="nav-link">Blogs</router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/blog-right-sidebar" class="nav-link">Blog Right
                                             Sidebar</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/blog-left-sidebar" class="nav-link">Blog Left
-                                            Sidebar</router-link>
-                                    </li>
-                                    <li class="nav-item">
                                         <router-link to="/blog-details" class="nav-link">Blog Details</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-modern" class="nav-link">Case Studies</router-link>
+                                        <router-link to="/coming-soon" class="nav-link">Case Studies</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">Success Stories</router-link>
+                                        <router-link to="/coming-soon" class="nav-link">Success Stories</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/about-simple" class="nav-link">Glossary</router-link>
+                                        <router-link to="/coming-soon" class="nav-link">Glossary</router-link>
                                     </li>
                                 </ul>
                             </li>
 
-                            <li class="nav-item megamenu">
+                            <!-- <li class="nav-item megamenu">
                                 <a href="#" class="dropdown-toggle nav-link">Pages</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -218,7 +204,7 @@
                                         <router-link to="/features-two" class="nav-link">Features 2</router-link>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             <li class="nav-item">
                                 <router-link to="/" class="nav-link">Request a demo</router-link>

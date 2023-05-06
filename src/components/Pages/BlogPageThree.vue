@@ -1,6 +1,6 @@
 <template>
     <div>
-        <Navbar class="navbar-style-three" />
+        <Navbar class="navbar-style-two" />
         <PageTitle class="bg-color" pageTitle="Blog Left Sidebar" />
         <Blog />
         <Footer />

@@ -8,8 +8,7 @@
         <Feedback />
         <Partner />
         <Blog />
-        <SoftwareIntegrations />
-        <FreeTrial />
+        <AppDownload />
         <FooterStyleFour />
     </div>
 </template>
@@ -23,8 +22,7 @@ import Feedback from '../AboutUs/Feedback'
 import Partner from '../Common/Partner'
 import Blog from '../Common/Blog'
 import Stats from '../AboutUs/Stats'
-import SoftwareIntegrations from '../AboutUs/SoftwareIntegrations'
-import FreeTrial from '../AboutUs/FreeTrial'
+import AppDownload from '../HomePage/AppDownload'
 import FooterStyleFour from '../Layout/FooterStyleFour'
 
 export default {
@@ -38,8 +36,7 @@ export default {
         Partner,
         Blog,
         Stats,
-        SoftwareIntegrations,
-        FreeTrial,
+        AppDownload,
         FooterStyleFour,
     }
 }

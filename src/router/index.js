@@ -38,7 +38,7 @@ import ErrorPage from "../components/Pages/ErrorPage";
 import AppDownloadPage from "../components/Pages/AppDownloadPage";
 import BlogPageOne from "../components/Pages/BlogPageOne";
 import BlogPageTwo from "../components/Pages/BlogPageTwo";
-import BlogPageThree from "../components/Pages/BlogPageThree";
+// import BlogPageThree from "../components/Pages/BlogPageThree";
 import BlogDetailsPage from "../components/Pages/BlogDetailsPage";
 import ContactPage from "../components/Pages/ContactPage";
 
@@ -80,7 +80,7 @@ const routes = [
   { path: "/app-download", component: AppDownloadPage },
   { path: "/blog-grid", component: BlogPageOne },
   { path: "/blog-right-sidebar", component: BlogPageTwo },
-  { path: "/blog-left-sidebar", component: BlogPageThree },
+  // { path: "/blog-left-sidebar", component: BlogPageThree },
   { path: "/blog-details", component: BlogDetailsPage },
   { path: "/contact", component: ContactPage },
 ];

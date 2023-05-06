@@ -1,7 +1,7 @@
 <template>
     <div>
-        <Navbar />
-        <PageTitle pageTitle="Blog Details" />
+        <Navbar class="navbar-style-two" />
+        <PageTitle class="page-title-style-two" pageTitle="Blog Right Sidebar" />
         <BlogDetails />
         <Footer />
     </div>

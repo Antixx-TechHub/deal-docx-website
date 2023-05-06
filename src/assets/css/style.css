@@ -49,6 +49,7 @@ Default CSS
   --gradientColor: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
   --paragraphColor: #716c80;
   --fontFamily: 'Inter', sans-serif;
+  
 }
 
 body {
@@ -3421,7 +3422,7 @@ New Demo CSS
 }
 
 .app-pricing-gradient-area .section-title h2 {
-  color: var(--whiteColor);
+  color: var(--blackColor);
 }
 
 .app-pricing-gradient-area .single-app-pricing-box .price {
@@ -4633,7 +4634,7 @@ New Demo CSS
 }
 
 .footer-wrap-area .copyright-area p a {
-  color: var(--mainColor);
+  color: var(--white);
   font-weight: 600;
 }
 

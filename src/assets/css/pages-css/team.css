@@ -99,6 +99,7 @@ Team Area CSS
   position: relative;
   padding: 60px 30px;
   overflow: hidden;
+  border-radius: 15px;
 }
 
 .single-team-member .image {
@@ -111,9 +112,9 @@ Team Area CSS
 }
 
 .single-team-member .image img {
-  border-radius: 50%;
-  -webkit-transform: scale(1);
-          transform: scale(1);
+  border-radius: 15px;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
   -webkit-transition: all 0.9s ease 0s;
   transition: all 0.9s ease 0s;
 }
@@ -132,7 +133,7 @@ Team Area CSS
           transform: scale(3);
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  background-color: var(--mainColor);
+  /* background: var(--gradientColor); */
 }
 
 .single-team-member .content {
@@ -141,6 +142,7 @@ Team Area CSS
 
 .single-team-member .content h3 {
   font-size: 20px;
+  margin-top: 50px;
   margin-bottom: 10px;
 }
 
@@ -161,7 +163,7 @@ Team Area CSS
   list-style-type: none;
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  background-color: var(--mainColor);
+  background-color: #f9f9f9;
 }
 
 .single-team-member .social-links li {
@@ -175,7 +177,7 @@ Team Area CSS
   font-size: 18px;
   height: 40px;
   position: relative;
-  background-color: var(--mainColor);
+  background: var(--gradientColor);
   color: var(--whiteColor);
 }
 

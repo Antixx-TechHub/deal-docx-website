@@ -7,7 +7,7 @@
                         <div class="d-table">
                             <div class="d-table-cell">
                                 <router-link to="/" class="logo">
-                                    <img src="../../assets/images/black-logo.png" alt="image">
+                                    <img src="../../assets/images/logo.svg" alt="image">
                                 </router-link>
                                 <h2>We Are Launching Soon</h2>
                                 <div id="timer" class="flex-wrap justify-content-center d-flex">
