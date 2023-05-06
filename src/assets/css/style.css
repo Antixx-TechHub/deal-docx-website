@@ -45,6 +45,7 @@ Default CSS
   --mainColor: #ED2775;
   --whiteColor: #ffffff;
   --blackColor: #262A37;
+  --signupButton: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
   --gradientColor: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
   --paragraphColor: #716c80;
   --fontFamily: 'Inter', sans-serif;
@@ -260,6 +261,7 @@ p:last-child {
   border-radius: 0;
   height: 50px;
   border-radius: 10px;
+  border: 1px solid #ced4da;
 }
 
 .form-control::-webkit-input-placeholder {
