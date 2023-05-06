@@ -378,6 +378,39 @@ Features Area CSS
 }
 
 /*================================================
+Contact Page Header Form Area CSS
+=================================================*/
+.contact-page-header-form-app-download-inner.bg-gray {
+  background: #F9F9FD;
+  padding-right: 50px;
+  padding-left: 75px;
+}
+
+.contact-page-header-form-app-download-inner.bg-gray::before {
+  display: none;
+}
+
+.contact-page-header-form-app-download-inner.bg-gray .app-download-content .sub-title {
+  display: block;
+  background: var(--gradientColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.1em;
+}
+
+.contact-page-header-form-app-download-inner.bg-gray .app-download-content h2 {
+  color: var(--blackColor);
+}
+
+.contact-page-header-form-app-download-inner.bg-gray .app-download-content p {
+  color: var(--paragraphColor);
+}
+
+.contact-page-header-form-app-download-inner.bg-gray .app-download-image {
+  padding-top: 50px;
+}
+
+/*================================================
 App Download Area CSS
 =================================================*/
 .app-download-inner.bg-gray {

@@ -130,7 +130,8 @@ p:last-child {
 }
 
 .pt-75 {
-  padding-top: 75px;
+  padding-top: 100px;
+  padding-bottom: 75px;
 }
 
 .pb-75 {
