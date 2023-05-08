@@ -1,5 +1,5 @@
 <template>
-    <div class="features-area ptb-100 bg-white">
+    <div class="features-area ptb-75 bg-white">
         <div class="container">
             <div class="section-title">
                 <h2>Stay Ahead of the Competition with DealDox Integration</h2>

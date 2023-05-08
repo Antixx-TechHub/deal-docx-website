@@ -1,41 +1,19 @@
 <template>
-    <div class="funfacts-area pb-75">
+    <div class="new-free-trial-area-mid-content-senction bg-background">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box">
-                        <div class="icon">
-                            <i class="ri-download-2-line"></i>
-                        </div>
-                        <p>Total Downloads</p>
-                        <h3>10M</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg1">
-                        <div class="icon">
-                            <i class="ri-star-fill"></i>
-                        </div>
-                        <p>Total Reviews</p>
-                        <h3>799K</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg2">
-                        <div class="icon">
-                            <i class="ri-global-line"></i>
-                        </div>
-                        <p>Worldwide Countries</p>
-                        <h3>150+</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg3">
-                        <div class="icon">
-                            <i class="ri-map-pin-user-line"></i>
-                        </div>
-                        <p>Active Users</p>
-                        <h3>5M</h3>
+            <div class="row align-items-center">
+                <div class="col-lg-12 col-md-12">
+                    <div class="features-item-mid-content-senction bg-white with-border">
+                        <h3>Your Business, Your Way: Our CPQ Software Focuses on Customization</h3>
+                        <p>Our CPQ (Configure Price Quote) software is designed to help businesses address the unique needs
+                            of their customers. We understand that no two companies are the same, and that's why our
+                            software is highly customizable, offering a wide range of configuration options to tailor
+                            services and products to the specific needs of each customer.</p>
+                        <p>Our software streamlines the process of configuring complex services and solutions, making it
+                            easier and faster for users to create quotes and proposals that accurately reflect the
+                            customer's requirements. With intuitive interfaces and advanced features, our CPQ software
+                            provides a seamless user experience, allowing users to quickly and easily configure a variety of
+                            services and solutions with precision.</p>
                     </div>
                 </div>
             </div>
@@ -45,6 +23,6 @@
 
 <script>
 export default {
-    name: 'Funfacts'
+    name: 'FreeTrial'
 }
 </script>

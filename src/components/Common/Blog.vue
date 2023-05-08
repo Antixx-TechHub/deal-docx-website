@@ -2,7 +2,7 @@
     <div class="blog-area bg-FAFAFA">
         <div class="container ptb-100">
             <div class="section-title">
-                <span class="sub-title">BLOG POST</span>
+                <span class="sub-title">In the news</span>
                 <h2>Latest Article From Our Blog</h2>
             </div>
             <div class="row justify-content-center">

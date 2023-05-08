@@ -1,41 +1,18 @@
 <template>
-    <div class="funfacts-area pb-75">
+    <div class="new-free-trial-area-mid-content-senction bg-background">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box">
-                        <div class="icon">
-                            <i class="ri-download-2-line"></i>
-                        </div>
-                        <p>Total Downloads</p>
-                        <h3>10M</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg1">
-                        <div class="icon">
-                            <i class="ri-star-fill"></i>
-                        </div>
-                        <p>Total Reviews</p>
-                        <h3>799K</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg2">
-                        <div class="icon">
-                            <i class="ri-global-line"></i>
-                        </div>
-                        <p>Worldwide Countries</p>
-                        <h3>150+</h3>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-md-6">
-                    <div class="funfacts-box bg3">
-                        <div class="icon">
-                            <i class="ri-map-pin-user-line"></i>
-                        </div>
-                        <p>Active Users</p>
-                        <h3>5M</h3>
+            <div class="row align-items-center">
+                <div class="col-lg-12 col-md-12">
+                    <div class="features-item-mid-content-senction bg-white with-border">
+                        <h3>Here is how it works</h3>
+                        <p>DealDox's product incorporates any CRM and ERP, which offers project and resource management
+                            alongside cost tracking, project billing and revenue forecast. Automated quoting tool
+                            integration accepts customers' projects and delivers quote and deal transitions to the PSA
+                            platform.</p>
+                        <p>The current integration transfers the details from the DealDox quotation or SOW into ERP to
+                            build the customer contract and project details. After the deal closes, the purpose is to widen
+                            the content of this process to provide an end-to-end, quote-to-cash cycle that is functional
+                            across a wide range of service industries</p>
                     </div>
                 </div>
             </div>
@@ -45,6 +22,6 @@
 
 <script>
 export default {
-    name: 'Funfacts'
+    name: 'FreeTrial'
 }
 </script>
