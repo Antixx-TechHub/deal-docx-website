@@ -10,21 +10,19 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-app-pricing-box">
                         <div class="title">
-                            <h3>Basic</h3>
-                            <p>Powerful & awesome elementss</p>
-                        </div>
-                        <div class="price">
-                            $49 <span>/Month</span>
+                            <h3>FREE</h3>
                         </div>
                         <ul class="features-list">
-                            <li><i class="ri-check-line"></i> Up to 10 Website</li>
-                            <li><i class="ri-check-line"></i> Lifetime free Support</li>
-                            <li><i class="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
-                            <li><i class="ri-check-line"></i> 24/7 Hours Support</li>
-                            <li><i class="ri-close-line"></i> SEO Optimized</li>
+                            <li><i class="ri-check-line"></i> All free Features</li>
+                            <li><i class="ri-check-line"></i> Personalized Document</li>
+                            <li><i class="ri-check-line"></i> Templates Sales Dashboard</li>
+                            <li><i class="ri-check-line"></i> API</li>
+                            <li><i class="ri-check-line"></i> SSO Support</li>
+                            <li><i class="ri-check-line"></i> Online forms</li>
+
                         </ul>
                         <div class="pricing-btn">
-                            <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
+                            <router-link to="/contact" class="default-btn">Start Using for Free</router-link>
                         </div>
                     </div>
                 </div>
@@ -32,20 +30,17 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-app-pricing-box active">
                         <div class="title">
-                            <h3>Small Team</h3>
-                            <p>Powerful & awesome elements</p>
+                            <h3>Premium</h3>
                         </div>
-                        <span class="popular">Most Popular</span>
-                        <div class="price">
-                            $59 <span>/Month</span>
-                        </div>
+                        
                         <ul class="features-list">
-                            <li><i class="ri-check-line"></i> Up to 10 Website</li>
-                            <li><i class="ri-check-line"></i> Lifetime free Support</li>
-                            <li><i class="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
-                            <li><i class="ri-check-line"></i> 24/7 Hours Support</li>
-                            <li><i class="ri-check-line"></i> SEO Optimized</li>
-                            <li><i class="ri-close-line"></i> Live Support</li>
+                            <li><i class="ri-check-line"></i> All free Features</li>
+                            <li><i class="ri-check-line"></i> Personalized Document</li>
+                            <li><i class="ri-check-line"></i> Templates Sales Dashboard</li>
+                            <li><i class="ri-check-line"></i> API</li>
+                            <li><i class="ri-check-line"></i> SSO Support</li>
+                            <li><i class="ri-check-line"></i> Online forms</li>
+
                         </ul>
                         <div class="pricing-btn">
                             <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
@@ -70,7 +65,7 @@
                             <li><i class="ri-check-line"></i> SEO Optimized</li>
                         </ul>
                         <div class="pricing-btn">
-                            <router-link to="/contact" class="default-btn">Purchase Plan</router-link>
+                            <router-link to="/contact" class="default-btn">Request a Quote</router-link>
                         </div>
                     </div>
                 </div>
