@@ -402,7 +402,7 @@ Features Area CSS
   transition: var(--transition);
   padding: 70px 50px 50px 80px;
   margin-bottom: 80px;
-  border-radius: 5px;
+  border-radius: 20px;
   position: relative;
   z-index: 1;
 }
