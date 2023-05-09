@@ -5,19 +5,17 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="new-app-main-banner-wrap-content">
                         <h1>Revolutionising Quote Generation with <br><span class="sub-title">Automation</span></h1>
-                        <p>Automation streamlines quote generation, saving time and boosting efficiency for businesses dealing with high volumes of requests.</p>
+                        <p>Automation streamlines quote generation, saving time and boosting efficiency for businesses
+                            dealing with high volumes of requests.</p>
                     </div>
-                </div> 
+                </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="new-app-main-banner-wrap-image" data-aos="fade-left" data-aos-duration="2000">
-                        <img src="../../assets/images/automated-quotes-generation/automated-quotes-generation-banner.png" alt="image">
+                        <img src="../../assets/images/automated-quotes-generation/automated-quotes-generation-banner.png"
+                            alt="image">
                     </div>
                 </div>
             </div>
-        </div>
-
-        <div class="new-app-main-banner-wrap-shape">
-            <img src="../../assets/images/more-home/banner/shape-5.png" alt="image">
         </div>
     </div>
 </template>

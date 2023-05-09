@@ -3,8 +3,8 @@
         <Navbar class="navbar-style-two" />
         <PageHeader />
         <Stats />
+        <Funfacts />
         <IAQSolutions />
-        <!-- <ChallengesAndTrack /> -->
         <FreeTrial />
         <FooterStyleFour />
     </div>
@@ -14,7 +14,7 @@
 import Navbar from '../Layout/Navbar'
 import PageHeader from '../CPQIntegration/PageHeader'
 import IAQSolutions from '../CPQIntegration/IAQSolutions'
-// import ChallengesAndTrack from '../CPQIntegration/ChallengesAndTrack'
+import Funfacts from '../CPQIntegration/Funfacts'
 import Stats from '../CPQIntegration/Stats'
 import FreeTrial from '../CPQIntegration/FreeTrial'
 import FooterStyleFour from '../Layout/FooterStyleFour'
@@ -25,7 +25,7 @@ export default {
         Navbar,
         PageHeader,
         IAQSolutions,
-        // ChallengesAndTrack,
+        Funfacts,
         Stats,
         FreeTrial,
         FooterStyleFour,

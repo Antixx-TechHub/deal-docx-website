@@ -4,6 +4,7 @@
         <PageHeader />
         <ChallengesAndTrack />
         <Stats />
+        <Funfacts />
         <FreeTrial />
         <FooterStyleFour />
     </div>
@@ -14,6 +15,7 @@ import Navbar from '../Layout/Navbar'
 import PageHeader from '../AutomatedQuotesGeneration/PageHeader'
 import ChallengesAndTrack from '../AutomatedQuotesGeneration/ChallengesAndTrack'
 import Stats from '../AutomatedQuotesGeneration/Stats'
+import Funfacts from '../AutomatedQuotesGeneration/Funfacts'
 import FreeTrial from '../AutomatedQuotesGeneration/FreeTrial'
 import FooterStyleFour from '../Layout/FooterStyleFour'
 
@@ -24,6 +26,7 @@ export default {
         PageHeader,
         ChallengesAndTrack,
         Stats,
+        Funfacts,
         FreeTrial,
         FooterStyleFour,
     }
