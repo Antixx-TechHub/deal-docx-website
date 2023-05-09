@@ -285,7 +285,7 @@ Features Area CSS
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: 1.1;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
   font-weight: 700;
 } 
 
@@ -509,6 +509,324 @@ color: #393939;
 }
 
 .view-more-box {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/*================================================
+Features Home Improve Sales Area CSS
+=================================================*/
+.features-area-improve-sales {
+  position: relative;
+  z-index: 1;
+}
+
+.single-features-box-improve-sales {
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  background-color: #F4F8FC;
+  margin-bottom: 25px;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+.single-features-box-improve-sales .icon {
+  width: 100px;
+  height: 100px;
+  font-size: 45px;
+  position: relative;
+  color: var(--whiteColor);
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
+  background: linear-gradient(45.24deg, #9F5FF1 5.99%, #FF54B0 91.87%);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+.single-features-box-improve-sales .icon i {
+  left: 0;
+  right: 0;
+  top: 50%;
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+/* .single-features-box .icon.bg2 {
+  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+} */
+
+.single-features-box-improve-sales .icon.bg3 {
+  background: linear-gradient(44.44deg, #3F75FF 7.79%, #4ADEFF 94.18%);
+}
+
+.single-features-box-improve-sales .icon.bg4 {
+  background: linear-gradient(44.44deg, #FF4B3F 7.79%, #FFAC30 94.18%);
+}
+
+.single-features-box-improve-sales h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.single-features-box:hover {
+  background-color: var(--whiteColor);
+  -webkit-box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.1), 0 30px 60px -30px rgba(107, 124, 147, 0.15);
+          box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.1), 0 30px 60px -30px rgba(107, 124, 147, 0.15);
+}
+
+.single-features-box:hover .icon {
+  border-radius: 50%;
+}
+
+.features-content-improve-sales {
+  padding-right: 15px;
+  margin: 27px 35px 27px 35px;
+}
+
+/* .features-content .sub-title {
+  display: block;
+  margin-bottom: 10px;
+  background: var(--gradientColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+} */
+
+.features-content-improve-sales .sub-title {
+  font-size: 36px;
+  display: inline-block;
+  background: var(--gradientColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.1;
+  /* margin-bottom: 10px; */
+  font-weight: 700;
+} 
+
+.features-content-improve-sales h2 {
+  font-size: 36px;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
+.features-content-improve-sales p {
+  font-size: 18px;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
+.features-content-improve-sales .features-list {
+  padding-left: 0;
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 35px;
+}
+
+.features-content-improve-sales .features-list li {
+  position: relative;
+  margin-bottom: 30px;
+  padding-left: 50px;
+}
+
+.features-content-improve-sales .features-list li .icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(99.01deg, #715CF3 20.98%, #5C99F3 94.62%);
+  position: absolute;
+  text-align: center;
+  /* vertical-align: middle; */
+  color: var(--whiteColor);
+  font-size: 25px;
+  left: 0;
+  top: 0;
+}
+
+.features-content-improve-sales .features-list li .icon i {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.features-content-improve-sales .features-list li .icon.bg2 {
+  background: linear-gradient(44.44deg, #FF4B3F 7.79%, #FFAC30 94.18%);
+}
+
+.features-content-improve-sales .features-list li .icon.bg3 {
+  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+}
+
+.features-content-improve-sales .features-list li h3 {
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+.features-content-improve-sales .features-list li:last-child {
+  margin-bottom: 0;
+}
+
+.features-content-improve-sales .btn-box {
+  margin-top: 35px;
+}
+
+.features-content-improve-sales .btn-box .default-btn {
+  margin-right: 15px;
+}
+
+.features-content-improve-sales .btn-box .link-btn {
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+}
+
+.features-content-improve-sales .btn-box .link-btn::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  width: 100%;
+  bottom: 0;
+  height: 1px;
+  background-color: var(--blackColor);
+}
+
+.features-content-improve-sales .btn-box .link-btn:hover {
+  color: var(--mainColor);
+}
+
+.features-content-improve-sales .btn-box .link-btn:hover::before {
+  width: 0;
+}
+
+.features-image-improve-sales {
+  -webkit-filter: drop-shadow(25px 50px 70px rgba(42, 50, 61, 0.15));
+          filter: drop-shadow(25px 50px 70px rgba(42, 50, 61, 0.15));
+  padding-left: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.single-features-item-improve-sales {
+  background-color: #FBFBFB;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  padding: 70px 50px 50px 80px;
+  margin-bottom: 80px;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+}
+
+.single-features-item-improve-sales .icon {
+  top: -40px;
+  left: 80px;
+  width: 80px;
+  height: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 25px;
+  position: absolute;
+  border-radius: 10px;
+  text-align: center;
+  color: var(--whiteColor);
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  -webkit-box-shadow: 5px 15px 35px rgba(38, 42, 55, 0.12);
+          box-shadow: 5px 15px 35px rgba(38, 42, 55, 0.12);
+          background: linear-gradient(45.24deg, #ffffff 5.99%, #ffffff 91.87%);
+  /* background: linear-gradient(45.24deg, #9F5FF1 5.99%, #FF54B0 91.87%); */
+}
+
+.single-features-item-improve-sales .icon i {
+  left: 20px;
+  right: 0;
+  top: 50%;
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.single-features-item-improve-sales .icon.bg2 {
+  background: linear-gradient(44.44deg, #FF4B3F 7.79%, #FFAC30 94.18%);
+}
+
+.single-features-item-improve-sales .icon.bg3 {
+  background: linear-gradient(45deg, #ED2775 0%, #FF7448 100%);
+}
+
+.single-features-item-improve-sales .icon.bg4 {
+  background: linear-gradient(44.44deg, #3F75FF 7.79%, #4ADEFF 94.18%);
+}
+
+.single-features-item-improve-sales .icon.bg5 {
+  background: linear-gradient(43.32deg, #6A55F8 14.73%, #CA48F6 86.35%, #CA48F6 86.35%);
+}
+
+.single-features-item-improve-sales .icon.bg6 {
+  background: linear-gradient(45deg, #6A55F8 0%, #EE6C74 100%);
+}
+
+.single-features-item-improve-sales h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.single-features-item-improve-sales p {
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 125%;
+
+color: #393939;
+}
+
+.single-features-item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 5px;
+  z-index: -1;
+  background: var(--gradientColor);
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.single-features-item:hover {
+  -webkit-box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.1), 0 30px 60px -30px rgba(107, 124, 147, 0.15);
+          box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.1), 0 30px 60px -30px rgba(107, 124, 147, 0.15);
+}
+
+.single-features-item:hover .icon {
+  border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
+}
+
+.single-features-item:hover h3, .single-features-item:hover p {
+  color: var(--whiteColor);
+}
+
+.single-features-item:hover::before {
+  opacity: 1;
+  visibility: visible;
+}
+
+.view-more-box-improve-sales {
   text-align: center;
   margin-top: 20px;
 }

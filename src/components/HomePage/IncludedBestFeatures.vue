@@ -1,5 +1,5 @@
 <template>
-    <div class="features-area pb-75 bg-FAFAFA">
+    <div class="features-area pt-65 bg-FAFAFA">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-sm-6 col-md-6">
@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-6 col-md-6">
                     <div class="software-integrations-inner bg-gradient-color">
-                        <div class="features-content">
+                        <div class="features-content-improve-sales">
                             <h2>Improve sales<br> efficiency with <span class="sub-title">CPQ</span></h2>
                             <p>DealDocx makes it simple to connect to all <br>the major CRMs.</p>
                             <div class="btn-box">
@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="software-integrations-inner bg-gradient-color">
-                        <div class="features-content">
+                        <div class="features-content-improve-sales">
                             <h2>Save more with <br><span class="sub-title">Swift Quotes</span></h2>
                             <p>DealDocx makes it simple to connect to all <br>the major CRMs.</p>
                             <div class="btn-box">

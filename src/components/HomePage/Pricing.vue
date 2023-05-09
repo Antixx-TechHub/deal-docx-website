@@ -1,5 +1,5 @@
 <template>
-    <div class="app-pricing-gradient-area ptb-100">
+    <div class="app-pricing-gradient-area ptb-75">
         <div class="container">
             <div class="section-title">
                 <h2>Let’s get started?</h2>

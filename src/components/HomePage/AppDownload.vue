@@ -1,5 +1,5 @@
 <template>
-    <div class="app-download-area ptb-100">
+    <div class="app-download-area pt-70">
         <div class="container">
             <div class="app-download-inner bg-gray">
                 <div class="row align-items-center">

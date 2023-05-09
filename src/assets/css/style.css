@@ -78,6 +78,11 @@ a:hover {
   text-decoration: none;
 }
 
+.with-top-border {
+  border-bottom: 2px solid #DBDBDB;
+  padding-bottom: 25px;
+}
+
 :focus {
   outline: 0 !important;
 }
@@ -133,6 +138,15 @@ p:last-child {
 .pt-75 {
   padding-top: 100px;
   padding-bottom: 75px;
+}
+
+.pt-70 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.pt-65 {
+  padding-bottom: 50px;
 }
 
 .pb-75 {

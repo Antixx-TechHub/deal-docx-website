@@ -1,15 +1,18 @@
 <template>
-    <div class="free-trial-area">
+    <div class="free-trial-area pt-65">
         <div class="container">
-            <div class="free-trial-content bg-color">
-                <span class="sub-title">FREE TRIAL</span>
-                <h2>What are you waiting for? Your 10 FREE automated quotes are ready and waiting!</h2>
-                <form class="free-trial-form">
-                    <input type="text" class="input-newsletter" placeholder="Enter Your Email Address" name="email">
-                    <!-- <button type="submit" class="default-btn">Get Started</button> -->
-                </form>
-                <div class="shape8"><img src="../../assets/images/shape/shape7.png" alt="shape"></div>
-                <div class="shape9"><img src="../../assets/images/shape/shape8.png" alt="shape"></div>
+            <div class="free-trial-inner">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="content">
+                            <h2>What are you waiting for?<span class="sub-title"> Your 10 FREE automated quotes</span> are ready and waiting!</h2>
+                            <form class="free-trial-form">
+                                <input type="text" class="input-newsletter" placeholder="Enter Your Email Address" name="email">
+                                <button type="submit" class="default-btn">Get Started</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
                 <div class="lines">
                     <div class="line"></div>
                     <div class="line"></div>
