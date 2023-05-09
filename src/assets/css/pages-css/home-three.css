@@ -237,7 +237,7 @@ Features Area CSS
   font-weight: 600;
   /* padding-bottom: 50px; */
   margin-bottom: 1px;
-  text-align: left;
+  text-align: center;
 }
 
 .features-item p {
@@ -252,7 +252,6 @@ Features Area CSS
   -webkit-transition: var(--transition);
   transition: var(--transition);
   background-color: #f9f9f9;
-  max-width: 1000px;
 }
 
 .features-item.with-border .sub-title {
@@ -425,6 +424,8 @@ Features Item Free Quotes Area CSS
 .features-item-free-quotes h3 {
   font-size: 25px;
   font-weight: 600;
+  margin-bottom: 500px;
+  padding-bottom: 20px;
   /* padding-bottom: 50px; */
   margin-bottom: 1px;
   text-align: center;
@@ -436,8 +437,8 @@ Features Item Free Quotes Area CSS
   text-align: center;
 }
 
-.features-item-free-quotes.pb.with-border {
-  padding: 40px;
+.features-item-free-quotes.with-border {
+  padding: 100px 150px 100px 150px;
   border: 1px solid #eeeeee;
   -webkit-transition: var(--transition);
   transition: var(--transition);
@@ -568,7 +569,7 @@ Features Item Free Quotes Area CSS
   margin-bottom: 0;
 }
 
-/*================================================
+/* ================================================
 Features Item Free Quotes PB Area CSS
 =================================================*/
 .features-item-free-quotes-pb {
@@ -765,17 +766,17 @@ Features Item Free Quotes PB Area CSS
 /*================================================
 Mid Content Section Area CSS
 =================================================*/
-.new-free-trial-area-mid-content-senction-pb {
+.new-free-trial-area-mid-content-senction {
   background: linear-gradient(180deg, #fafafa 50%, #ffffff 50%);
 }
 
-.features-item-mid-content-senction-pb {
+.features-item-mid-content-senction {
   margin-bottom: 25px;
   text-align: center;
   border-radius: 40px;
 }
 
-.features-item-mid-content-senction-pb .icon {
+.features-item-mid-content-senction .icon {
   width: 70px;
   height: 70px;
   font-size: 35px;
@@ -790,7 +791,7 @@ Mid Content Section Area CSS
   margin-bottom: 20px;
 }
 
-.features-item-mid-content-senction-pb .icon i {
+.features-item-mid-content-senction .icon i {
   left: 0;
   right: 0;
   top: 50%;
@@ -799,19 +800,19 @@ Mid Content Section Area CSS
   transform: translateY(-50%);
 }
 
-.features-item-mid-content-senction-pb .icon.bg2 {
+.features-item-mid-content-senction .icon.bg2 {
   background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
 }
 
-.features-item-mid-content-senction-pb .icon.bg3 {
+.features-item-mid-content-senction .icon.bg3 {
   background: linear-gradient(44.44deg, #3F75FF 7.79%, #4ADEFF 94.18%);
 }
 
-.features-item-mid-content-senction-pb .icon.bg4 {
+.features-item-mid-content-senction .icon.bg4 {
   background: linear-gradient(44.44deg, #FF4B3F 7.79%, #FFAC30 94.18%);
 }
 
-.features-item-mid-content-senction-pb h3 {
+.features-item-mid-content-senction h3 {
   font-size: 25px;
   font-weight: 600;
   /* padding-bottom: 50px; */
@@ -819,13 +820,13 @@ Mid Content Section Area CSS
   text-align: left;
 }
 
-.features-item-mid-content-senction-pb p {
+.features-item-mid-content-senction p {
   font-size: 15px;
   margin-bottom: 12px;
   text-align: justify;
 }
 
-.features-item-mid-content-senction-pb {
+.features-item-mid-content-senction {
   padding: 40px;
   border: 1px solid #eeeeee;
   -webkit-transition: var(--transition);
@@ -835,7 +836,7 @@ Mid Content Section Area CSS
   /* max-width: 800px; */
 }
 
-.features-item-mid-content-senction-pb .sub-title {
+.features-item-mid-content-senction .sub-title {
   font-size: 30px;
   display: inline-block;
   background: var(--gradientColor);
@@ -846,12 +847,12 @@ Mid Content Section Area CSS
   font-weight: 700;
 }
 
-.features-item-mid-content-senction.pb.with-border:hover {
+.features-item-mid-content-senction.with-border:hover {
   -webkit-box-shadow: 0px 25px 75px rgba(25, 34, 64, 0.15);
   box-shadow: 0px 25px 75px rgba(25, 34, 64, 0.15);
 }
 
-.features-boxes-list-mid-content-senction-pb {
+.features-boxes-list-mid-content-senction {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -867,7 +868,7 @@ Mid Content Section Area CSS
   margin-left: calc(var(--bs-gutter-x)/ -2);
 }
 
-.features-boxes-list-mid-content-senction-pb li {
+.features-boxes-list-mid-content-senction li {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
@@ -876,12 +877,12 @@ Mid Content Section Area CSS
   padding-right: calc(var(--bs-gutter-x)/ 2);
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box {
+.features-boxes-list-mid-content-senction li .features-list-box {
   margin-bottom: 25px;
   text-align: center;
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon {
+.features-boxes-list-mid-content-senction li .features-list-box .icon {
   width: 100px;
   height: 100px;
   font-size: 45px;
@@ -897,7 +898,7 @@ Mid Content Section Area CSS
   margin-bottom: 25px;
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon i {
+.features-boxes-list-mid-content-senction li .features-list-box .icon i {
   left: 0;
   right: 0;
   top: 50%;
@@ -906,19 +907,19 @@ Mid Content Section Area CSS
   transform: translateY(-50%);
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon.bg2 {
+.features-boxes-list-mid-content-senction li .features-list-box .icon.bg2 {
   background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon.bg3 {
+.features-boxes-list-mid-content-senction li .features-list-box .icon.bg3 {
   background: linear-gradient(44.44deg, #3F75FF 7.79%, #4ADEFF 94.18%);
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon.bg4 {
+.features-boxes-list-mid-content-senction li .features-list-box .icon.bg4 {
   background: linear-gradient(44.44deg, #FF4B3F 7.79%, #FFAC30 94.18%);
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon::before {
+.features-boxes-list-mid-content-senction li .features-list-box .icon::before {
   position: absolute;
   height: 31px;
   width: 65px;
@@ -934,7 +935,7 @@ Mid Content Section Area CSS
   background-size: cover;
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box .icon::after {
+.features-boxes-list-mid-content-senction li .features-list-box .icon::after {
   -webkit-transform: scaleX(-1) scaleY(-1);
   transform: scaleX(-1) scaleY(-1);
   position: absolute;
@@ -952,7 +953,7 @@ Mid Content Section Area CSS
   background-size: cover;
 }
 
-.features-boxes-list-mid-content-senction-pb li .features-list-box h3 {
+.features-boxes-list-mid-content-senction li .features-list-box h3 {
   font-size: 20px;
   margin-bottom: 0;
 }
