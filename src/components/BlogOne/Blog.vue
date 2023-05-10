@@ -1,157 +1,32 @@
 <template>
     <div class="blog-area ptb-100">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
+            <div 
+                class="row justify-content-center"
+                v-if="blogs !== []"
+            >
+                <div 
+                    class="col-lg-4 col-md-6"
+                    v-for="blog in blogs"
+                    :key="blog.id"
+                >
                     <div class="single-blog-post">
                         <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog1.jpg" alt="blog">
+                            <router-link :to="'/blog-details/' + blog.attributes.slug" class="d-block">
+                                <img :src="blog.attributes.image.data.attributes.url" alt="blog">
                             </router-link>
-                            <router-link to="/blog-grid" class="tag">Branding</router-link>
+                            <router-link to="/blog-grid" class="tag">{{blog.attributes.tag}}</router-link>
                         </div>
                         <div class="content">
                             <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 14, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(0) Comment</router-link></li>
+                                <li><i class="ri-time-line"></i> {{blog.attributes.date}}</li>
+                                <!-- <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(0) Comment</router-link></li> -->
                             </ul>
-                            <h3><router-link to="/blog-details">Branding involves developing strategy to create a point of differentiation</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog2.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Agency</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 13, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(4) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Design is a plan or specification for the construction of an object</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog3.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Marketing</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 12, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(2) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">The new minimum is a digital magazine with a header featuring a thin</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog4.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Branding</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 14, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(0) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">WordPress is open source software you can use to create a beautiful</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog5.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Agency</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 13, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(4) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Bootstrap 5 is open source software you can use to create a beautiful</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog6.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Marketing</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 12, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(2) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Beautiful designs, powerful features, and the freedom to build anything you</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog7.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Branding</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 14, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(0) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Branding involves developing strategy to create a point of differentiation</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog8.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Agency</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 13, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(4) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Most designs, powerful features, and the freedom to build anything you</router-link></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <router-link to="/blog-details" class="d-block">
-                                <img src="../../assets/images/blog/blog9.jpg" alt="blog">
-                            </router-link>
-                            <router-link to="/blog-grid" class="tag">Marketing</router-link>
-                        </div>
-                        <div class="content">
-                            <ul class="meta">
-                                <li><i class="ri-time-line"></i> April 12, 2021</li>
-                                <li><i class="ri-message-2-line"></i> <router-link to="/blog-details">(2) Comment</router-link></li>
-                            </ul>
-                            <h3><router-link to="/blog-details">Branding involves developing strategy to create a point</router-link></h3>
+                            <h3>
+                                <router-link :to="'/blog-details/' + blog.attributes.slug">
+                                    {{blog.attributes.title}}
+                                </router-link>
+                            </h3>
                         </div>
                     </div>
                 </div>
@@ -171,7 +46,18 @@
 </template>
 
 <script>
+import axios from 'axios'
+
 export default {
-    name: 'Blog'
+    name: 'Blog',
+    data (){
+        return {
+            blogs: []
+        }
+    },
+    created: async function (){
+        const response = await axios.get('https://cms.antixxtechhub.in/api/blogs?populate=*')
+        this.blogs = response.data.data
+    },
 }
 </script>
