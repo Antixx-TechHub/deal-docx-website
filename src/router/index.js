@@ -83,7 +83,8 @@ const routes = [
   { path: "/blog-grid", component: BlogPageOne },
   { path: "/blog-right-sidebar", component: BlogPageTwo },
   // { path: "/blog-left-sidebar", component: BlogPageThree },
-  { path: "/blog-details", component: BlogDetailsPage },
+  // { path: "/blog-details", component: BlogDetailsPage },
+  { path: "/blog-details/:slug", component: BlogDetailsPage },
   { path: "/contact", component: ContactPage },
 ];
 

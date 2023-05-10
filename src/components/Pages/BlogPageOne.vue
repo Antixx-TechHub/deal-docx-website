@@ -3,7 +3,7 @@
         <Navbar class="navbar-style-two" />
         <PageTitle class="page-title-style-two" pageTitle="Blog Right Sidebar" />
         <Blog />
-        <Footer />
+        <FooterStyleFour />
     </div>
 </template>
 
@@ -11,7 +11,7 @@
 import Navbar from '../Layout/Navbar'
 import PageTitle from '../Common/PageTitle'
 import Blog from '../BlogOne/Blog'
-import Footer from '../Layout/Footer'
+import FooterStyleFour from '../Layout/FooterStyleFour'
 
 export default {
     name: 'BlogPageOne',
@@ -19,7 +19,7 @@ export default {
         Navbar,
         PageTitle,
         Blog,
-        Footer,
+        FooterStyleFour,
     }
 }
 </script>
