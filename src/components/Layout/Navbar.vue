@@ -69,13 +69,8 @@
                                 </ul>
                             </li>
 
-<<<<<<< HEAD
+                        
                             <li class="nav-item"><a href="/subscriptions" class="toggle nav-link">Subscriptions</a>
-=======
-                            <li class="nav-item">
-                            <router-link to="/subscriptions" class="nav-link">Subscriptions </router-link>
-                                            
->>>>>>> 5e69864037eefed0be94878d839228275c684e72
                             </li>
 
                             <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Company</a>
