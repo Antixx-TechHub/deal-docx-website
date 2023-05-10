@@ -16,6 +16,7 @@ import AboutUs from "../components/Pages/AboutUs";
 import ContactUs from "../components/Pages/ContactUs";
 import AutomatedQuotesGeneration from "../components/Pages/AutomatedQuotesGeneration";
 import LightningFastQuoteApprovals from "../components/Pages/LightningFastQuoteApprovals";
+import Subscriptions from "../components/Pages/Subscriptions";
 import AboutPageTwo from "../components/Pages/AboutPageTwo";
 import FeaturesPageOne from "../components/Pages/FeaturesPageOne";
 import FeaturesPageTwo from "../components/Pages/FeaturesPageTwo";
@@ -58,6 +59,7 @@ const routes = [
   { path: "/automated-quotes-generation", component: AutomatedQuotesGeneration },
   { path: "/about-us", component: AboutUs },
   { path: "/lightning-fast-quote-approvals", component: LightningFastQuoteApprovals },
+  { path: "/subscription", component: Subscriptions },
   { path: "/about-modern", component: AboutPageTwo },
   { path: "/features-one", component: FeaturesPageOne },
   { path: "/features-two", component: FeaturesPageTwo },
