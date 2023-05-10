@@ -13,7 +13,7 @@
                         </div>
                         <div class="content">
                             <h3>Halima Sadiya AP</h3>
-                            <span>Founder & CEO</span>
+                            <span >Founder & CEO</span>
                             <p>“Our team includes experienced <br>developers and architects”</p>
                         </div>
                         <ul class="social-links">

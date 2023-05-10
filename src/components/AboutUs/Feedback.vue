@@ -14,11 +14,13 @@
                                 v-bind:class="{ 'active': activeTab == tab.id }"
                                 :key="tab.id"
                             >
-                            <h1>What does users say about Dealdox</h1>
+                            <div class="features-content">
+                            <h1>What does users say about <span class="sub-title">Dealdox </span></h1>
+                        </div>
                             <br>
                             <br>
                             <h6>This is the best quote generator I have ever used</h6>
-                                <p>“From the outset, we have realised the immense potential of technology to transform sales teams. Our relentless commitment to innovation has allowed us to harness this power, creating software solutions that dramatically improve sales efficiency and productivity. By delivering outstanding value to both sales teams”</p>
+                                <p>“From the outset, we have realised the immense potential of technology to transform sales teams. Our relentless commitment to innovation has allowed us to harness this power, creating software solutions that dramatically improve sales efficiency and productivity. By delivering outstanding value to both sales teams” </p>
                                 <h6>
                                     <span>James Smith</span> 
                                     - Web Developer
