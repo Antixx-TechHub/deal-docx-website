@@ -12,6 +12,7 @@ import HomePageEight from "../components/Pages/HomePageEight";
 import HomePageNine from "../components/Pages/HomePageNine";
 import AboutPageOne from "../components/Pages/AboutPageOne";
 import CPQIntegration from "../components/Pages/CPQIntegration";
+import Subscriptions from "../components/Pages/Subscriptions";
 import AboutUs from "../components/Pages/AboutUs";
 import ContactUs from "../components/Pages/ContactUs";
 import AutomatedQuotesGeneration from "../components/Pages/AutomatedQuotesGeneration";
@@ -54,6 +55,7 @@ const routes = [
   { path: "/home-nine", component: HomePageNine },
   { path: "/cpq", component: AboutPageOne },
   { path: "/cpq-integration", component: CPQIntegration },
+  { path: "/subscriptions", component: Subscriptions },
   { path: "/contact-us", component: ContactUs },
   { path: "/automated-quotes-generation", component: AutomatedQuotesGeneration },
   { path: "/about-us", component: AboutUs },
