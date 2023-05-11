@@ -30,19 +30,19 @@
                         <h3>Features</h3>
                         <ul class="links-list">
                             <li>
-                                <router-link to="/about-simple">CPQ</router-link>
+                                <router-link to="/">CPQ</router-link>
                             </li>
                             <li>
-                                <router-link to="/features-two">Integrations</router-link>
+                                <router-link to="/">Integrations</router-link>
                             </li>
                             <li>
-                                <router-link to="/privacy-policy">Swift Quotes</router-link>
+                                <router-link to="/">Swift Quotes</router-link>
                             </li>
                             <li>
-                                <router-link to="/privacy-policy">Simplified Deals</router-link>
+                                <router-link to="/">Simplified Deals</router-link>
                             </li>
                             <li>
-                                <router-link to="/feedback">Quick Approvals</router-link>
+                                <router-link to="/">Quick Approvals</router-link>
                             </li>
                         </ul>
                     </div>
@@ -52,13 +52,13 @@
                         <h3>Integrations</h3>
                         <ul class="links-list">
                             <li>
-                                <router-link to="/services">Salesforce</router-link>
+                                <router-link to="/">Salesforce</router-link>
                             </li>
                             <li>
-                                <router-link to="/contact">Hubspot</router-link>
+                                <router-link to="/">Hubspot</router-link>
                             </li>
                             <li>
-                                <router-link to="/privacy-policy">Freshworks</router-link>
+                                <router-link to="/">Freshworks</router-link>
                             </li>
                         </ul>
                     </div>
@@ -68,16 +68,16 @@
                         <h3>Company</h3>
                         <ul class="links-list">
                             <li>
-                                <router-link to="/privacy-policy">About Us</router-link>
+                                <router-link to="/">About Us</router-link>
                             </li>
                             <li>
-                                <router-link to="/privacy-policy">Collaborators</router-link>
+                                <router-link to="/">Collaborators</router-link>
                             </li>
                             <li>
-                                <router-link to="/terms-conditions">Contact us</router-link>
+                                <router-link to="/">Contact us</router-link>
                             </li>
                             <li>
-                                <router-link to="/how-it-works">Glossary</router-link>
+                                <router-link to="/">Glossary</router-link>
                             </li>
                         </ul>
                     </div>
@@ -87,13 +87,13 @@
                         <h3>Resources</h3>
                         <ul class="links-list">
                             <li>
-                                <router-link to="/privacy-policy">Blog</router-link>
+                                <router-link to="/">Blog</router-link>
                             </li>
                             <li>
-                                <router-link to="/privacy-policy">Success</router-link>
+                                <router-link to="/">Success</router-link>
                             </li>
                             <li>
-                                <router-link to="/terms-conditions">Stories</router-link>
+                                <router-link to="/">Stories</router-link>
                             </li>
                         </ul>
                     </div>
