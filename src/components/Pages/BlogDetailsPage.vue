@@ -1,7 +1,7 @@
 <template>
     <div>
-        <Navbar />
-        <PageTitle 
+        <Navbar class="navbar-style-two"/>
+        <PageTitle class="page-title-style-two"
             v-if="details !== null"
             :pageTitle="details[0].attributes.title" 
         />
@@ -10,7 +10,7 @@
                 v-bind:detailsContent="details"
             />
         </div>
-        <FooterStyleFour />
+        <Footer />
     </div>
 </template>
 
@@ -19,7 +19,7 @@ import axios from 'axios'
 import Navbar from '../Layout/Navbar'
 import PageTitle from '../Common/PageTitle'
 import BlogDetails from '../BlogDetails/BlogDetails'
-import FooterStyleFour from '../Layout/FooterStyleFour'
+import Footer from '../Layout/FooterStyleFour'
 
 export default {
     name: 'BlogPageOne',
@@ -27,7 +27,7 @@ export default {
         Navbar,
         PageTitle,
         BlogDetails,
-        FooterStyleFour,
+        Footer,
     },
     data (){
         return {
@@ -36,7 +36,7 @@ export default {
     },
     created: async function (){
         const { slug } = this.$route.params
-        const reaponse = await axios.get(`https://cms.antixxtechhub.in/api/blogs?filters[slug][$eq]=${slug}&populate=*`, { params: { slug }})
+        const reaponse = await axios.get(`http://cms.dealdox.io/api/blogs?filters[slug][$eq]=${slug}&populate=*`, { params: { slug }})
         this.details = reaponse.data.data
     }
 }

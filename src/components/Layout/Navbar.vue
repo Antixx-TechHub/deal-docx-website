@@ -90,13 +90,6 @@
                                         <router-link to="/blog-grid" class="nav-link">Blogs</router-link>
                                     </li>
                                     <li class="nav-item">
-                                        <router-link to="/blog-right-sidebar" class="nav-link">Blog Right
-                                            Sidebar</router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/blog-details" class="nav-link">Blog Details</router-link>
-                                    </li>
-                                    <li class="nav-item">
                                         <router-link to="/coming-soon" class="nav-link">Case Studies</router-link>
                                     </li>
                                     <li class="nav-item">
