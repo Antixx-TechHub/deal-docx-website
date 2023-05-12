@@ -80,7 +80,7 @@ const routes = [
   { path: "/coming-soon", component: ComingSoonPage },
   { path: "/error", component: ErrorPage },
   { path: "/app-download", component: AppDownloadPage },
-  { path: "/blog-grid", component: BlogPageOne },
+  { path: "/blogs", component: BlogPageOne },
   { path: "/blog-right-sidebar", component: BlogPageTwo },
   // { path: "/blog-left-sidebar", component: BlogPageThree },
   // { path: "/blog-details", component: BlogDetailsPage },
